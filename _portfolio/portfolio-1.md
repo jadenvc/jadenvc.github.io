@@ -2,10 +2,11 @@
 title: "Playful Quadrupeds"
 excerpt: "I work with the nonprofit [Hands-On Robotics](https://handsonrobotics.org/) to develop open-source agile quadrupeds. My work explores how large language models (LLMs) and reinforcement learning from human feedback (RLHF) can be used to make quadrupeds like Pupper more friendly and expressive. I previously worked on deep reinforcement learning to enable Pupper to walk faster on more challenging terrains.
 
-We are working with the Stanford Children's Hospital to explore how quadrupeds can improve peri-operative and inpatient pediatric experience. Our work has been featured in the [Stanford Report](https://news.stanford.edu/report/2023/08/01/robo-dogs-unleash-fun-joy-stanford-hospital/), [ABC News]([https://news.stanford.edu/report/2023/08/01/robo-dogs-unleash-fun-joy-stanford-hospital/](https://www.youtube.com/watch?v=53UHRF8ns1I&ab_channel=StuartBowers)https://www.youtube.com/watch?v=53UHRF8ns1I&ab_channel=StuartBowers), and more.
-
 
 
 <br/><img src='/images/med.png'>"
+
+We are working with the Stanford Children's Hospital to explore how quadrupeds can improve peri-operative and inpatient pediatric experience. Our work has been featured in the [Stanford Report](https://news.stanford.edu/report/2023/08/01/robo-dogs-unleash-fun-joy-stanford-hospital/), [ABC News]([https://news.stanford.edu/report/2023/08/01/robo-dogs-unleash-fun-joy-stanford-hospital/](https://www.youtube.com/watch?v=53UHRF8ns1I&ab_channel=StuartBowers)https://www.youtube.com/watch?v=53UHRF8ns1I&ab_channel=StuartBowers), and more.
+
 collection: portfolio
 ---
