@@ -26,9 +26,3 @@ I love to take photos of animals I find in the wild. See more of my work on [Ins
  <br/><img src='/images/palmyra_birds.jpeg'>
  
  <br/><img src='/images/gorilla_fam.jpeg'>
-
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-{% include archive-single.html %}
-{% endfor %}
