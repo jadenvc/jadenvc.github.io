@@ -13,7 +13,7 @@ instagram.com/jadenvclark
 
  <br/><img src='/images/trioceros.jpeg'>
 
- <br/><img src='/images/gorill_portrait.jpeg'>
+ <br/><img src='/images/gorilla_portrait.jpeg'>
 
  <br/><img src='/images/elephant.jpeg'>
 
@@ -29,8 +29,6 @@ instagram.com/jadenvclark
 
  <br/><img src='/images/palmyra_birds.jpeg'>
  
- <br/><img src='/images/palmyra_birds.jpeg'>
-
  <br/><img src='/images/gorilla_fam.jpeg'>
 
 {% include base_path %}
