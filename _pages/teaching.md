@@ -5,11 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I love to take photos of animals I find in the wild. See more of my work on Instagram and Flickr
-
-https://www.flickr.com/photos/99187903@N04/
-
-instagram.com/jadenvclark
+I love to take photos of animals I find in the wild. See more of my work on [Instagram](instagram.com/jadenvclark) and higher resolution on [Flickr](https://www.flickr.com/photos/99187903@N04/)
 
  <br/><img src='/images/trioceros.jpeg'>
 
