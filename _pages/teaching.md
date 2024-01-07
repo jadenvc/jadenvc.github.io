@@ -11,13 +11,27 @@ https://www.flickr.com/photos/99187903@N04/
 
 instagram.com/jadenvclark
 
- <br/><img src='/images/jaden_nurseshark.png'>
+ <br/><img src='/images/trioceros.jpeg'>
 
- <br/><img src='/images/jaden_nurseshark.png'>
+ <br/><img src='/images/gorill_portrait.jpeg'>
 
- <br/><img src='/images/jaden_nurseshark.png'>
+ <br/><img src='/images/elephant.jpeg'>
 
- <br/><img src='/images/jaden_nurseshark.png'>
+ <br/><img src='/images/rough_scale.jpeg'>
+
+ <br/><img src='/images/velvet_monkey.jpeg'>
+
+ <br/><img src='/images/sniff.jpeg'>
+
+ <br/><img src='/images/nudibranch.jpeg'>
+
+ <br/><img src='/images/calling.jpeg'>
+
+ <br/><img src='/images/palmyra_birds.jpeg'>
+ 
+ <br/><img src='/images/palmyra_birds.jpeg'>
+
+ <br/><img src='/images/gorilla_fam.jpeg'>
 
 {% include base_path %}
 
