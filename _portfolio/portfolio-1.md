@@ -1,5 +1,11 @@
 ---
-title: "Efficient Quadruped Locomotion"
-excerpt: "Robotics education is challenging due to a lack of accessible hardware. Especially when teaching AI, robotics courses are often restricted to simulation, which leaves out crucial components of the field. We aim to combat these challenges using Pupper, an open source quadruped that can be built-in-house for under $2000. Using Pupper, and a carefully-designed curriculum, we aim to democratize AI and robotics education - helping spread the field to underrepresented and low-income groups. I implemented a new gait generation scheme for Pupper to enable more efficient locomotion at varying speeds using reinforcement learning. I also helped transition the group's simulation environment from PyBullet to Nvidia Isaac Gym on the cloud. I am currently using automatic curriculum learning to enable Pupper to walk on more challenging terrain.<br/><img src='/images/pupper.png'>"
+title: "Playful Quadrupeds"
+excerpt: "I work with the nonprofit [Hands-On Robotics](https://handsonrobotics.org/) to develop open-source agile quadrupeds. My work explores how large language models (LLMs) and reinforcement learning from human feedback (RLHF) can be used to make quadrupeds like Pupper more friendly and expressive. I previously worked on deep reinforcement learning to enable Pupper to walk faster on more challenging terrains.
+
+We are working with the Stanford Children's Hospital to explore how quadrupeds can improve peri-operative and inpatient pediatric experience. Our work has been featured in the [Stanford Report](https://news.stanford.edu/report/2023/08/01/robo-dogs-unleash-fun-joy-stanford-hospital/), [ABC News]([https://news.stanford.edu/report/2023/08/01/robo-dogs-unleash-fun-joy-stanford-hospital/](https://www.youtube.com/watch?v=53UHRF8ns1I&ab_channel=StuartBowers)https://www.youtube.com/watch?v=53UHRF8ns1I&ab_channel=StuartBowers), and more.
+
+
+
+<br/><img src='/images/med.png'>"
 collection: portfolio
 ---
