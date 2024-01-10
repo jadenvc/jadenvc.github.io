@@ -17,9 +17,9 @@ author_profile: true
 
 # Conference Presentations
 
-Clark et. al., Featured Live Demo on Open-Source AI Robotics Education, IEEE International Conference on Robotics and Automation; Workshop on Agile Movements: Animal Behavior, Biomechanics, and Robot Devices 2023
+Clark et. al., Featured Live Demo on Open-Source AI Robotics Education, [IEEE International Conference on Robotics and Automation; Workshop on Agile Movements: Animal Behavior, Biomechanics, and Robot Devices 2023](https://sites.google.com/view/agilemovement-2023icra/featured-live-demo?authuser=0)
 
-Clark et. al., Pupper: An Open-Source AI Robotics Educational Curriculum and Platform, Conference on Robot Learning, 2022
+Clark et. al., [Pupper: An Open-Source AI Robotics Educational Curriculum and Platform, Conference on Robot Learning](https://corl2022.org/demonstrations/), 2022
 
 Clark et. al., Modeling Flight Dynamics in Gliding Lizards, The Society for Integrative and Comparative Biology, December 2020
 
