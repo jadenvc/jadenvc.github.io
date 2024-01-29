@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-10-01
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023; 1st Workshop on Multi-Agent Dynamic Games'
 paperurl: 'https://iros2023-madgames.f1tenth.org/papers/nagami.pdf'
-citation: 'Jaden Clark, Keiko Nagami, Mac Schwager. (2021). &quot;Learned Objectives for Game Theoretic Planning.&quot; <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023; 1st Workshop on Multi-Agent Dynamic Games</i>.'
+citation: 'Keiko Nagami* Jaden Clark* Mac Schwager. &quot;Learned Objectives for Game Theoretic Planning.&quot; <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023; 1st Workshop on Multi-Agent Dynamic Games</i>.'
 ---
 
 [Download paper here]([https://iros2023-madgames.f1tenth.org/proceedings.html](https://iros2023-madgames.f1tenth.org/papers/nagami.pdf)https://iros2023-madgames.f1tenth.org/papers/nagami.pdf)
