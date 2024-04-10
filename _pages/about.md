@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate studying AI and robotics at Stanford. I work on multi-agent motion planning in the [Stanford Multi-Robot Systems Lab (MSL)](https://msl.stanford.edu/) with [Dr. Mac Schwager](https://web.stanford.edu/~schwager/) and develop agile quadrupeds with [Dr. Karen Liu](https://engineering.stanford.edu/people/karen-liu). I have also used computational tools from robotics and AI to study animal behavior. I previously studied movement ecology of large marine animals with [Dr. Barbara Block](https://www.stanfordblocklab.org/) at Stanford, and flight biomechanics with [Dr. Tim Higham](https://biomechanics.ucr.edu/) at UC Riverside.
+I am an undergraduate studying AI and robotics at Stanford and am advised by [Dr. Dorsa Sadigh](https://dorsa.fyi/) and [Dr. Mac Schwager](https://web.stanford.edu/~schwager/). I work on agile quadrupeds with [Dr. Karen Liu](https://engineering.stanford.edu/people/karen-liu) and the team at [Hands-On Robotics](https://handsonrobotics.org/about-us). I have also used computational tools from robotics and AI to study animal behavior. I previously studied movement ecology of large marine animals with [Dr. Barbara Block](https://www.stanfordblocklab.org/) at Stanford, and flight biomechanics with [Dr. Tim Higham](https://biomechanics.ucr.edu/) at UC Riverside.
 
  <br/><img src='/images/jaden_nurseshark.png'>
 
