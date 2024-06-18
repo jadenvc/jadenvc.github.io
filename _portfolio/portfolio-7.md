@@ -5,7 +5,7 @@ excerpt: "I initiated an international collaboration between Stanford Student Ro
 <br/><img src='/images/map2.png'>
 
 <br/><img src='/images/output_img.jpg'>
-
+"
 collection: portfolio
 ---
 
