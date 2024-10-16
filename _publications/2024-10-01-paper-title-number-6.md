@@ -5,7 +5,7 @@ permalink: /publication/2024-10-01-paper-title-number-6
 excerpt: ''
 date: 2024-10-01
 venue: 'Under Review'
-paperurl: ''
+paperurl: 'N/A'
 citation: 'N/A'
 ---
 
