@@ -6,7 +6,7 @@ excerpt: ''
 date: 2025-02-01
 venue: 'IEEE International Conference on Robotics and Automation (ICRA) 2025'
 paperurl: 'N/A'
-citation: ''Clark, Jaden Hejna, Joey Sadigh, Dorsa (2025). &quot;Efficiently Generating Expressive Quadruped Behaviors via Language-Guided Preference Learning 1.&quot; <i>IEEE International Conference on Robotics and Automation (ICRA) </i>. (1).''
+citation: 'Clark, Jaden Hejna, Joey Sadigh, Dorsa (2025). &quot;Efficiently Generating Expressive Quadruped Behaviors via Language-Guided Preference Learning 1.&quot; <i>IEEE International Conference on Robotics and Automation (ICRA) </i>. (1).'
 ---
 
 
