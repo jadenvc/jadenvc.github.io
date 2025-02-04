@@ -3,8 +3,8 @@ title: "Efficiently Generating Expressive Quadruped Behaviors via Language-Guide
 collection: publications
 permalink: /publication/2024-10-01-paper-title-number-6
 excerpt: ''
-date: 2024-10-01
-venue: 'Under Review'
+date: 2025-02-01
+venue: 'IEEE International Conference on Robotics and Automation (ICRA) 2025'
 paperurl: 'N/A'
 citation: 'N/A'
 ---
