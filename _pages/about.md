@@ -16,7 +16,7 @@ I am also excited about using computational tools from robotics and AI to study 
 
  Tagging a nurse shark in Santa Elena Bay, Costa Rica
 
-**Updates**
+**Recent updates!**
 
 - **January 2025:** [LGPL](https://lgpl-gaits.github.io) accepted to ICRA 2025  
 - **November 2024:** Talk on preference learning for CS 123  
