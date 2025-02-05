@@ -30,5 +30,5 @@ I am also excited about using computational tools from robotics and AI to study 
 - **January 2023:** Co-teaching [Stanford Intro to AI Robotics Independent Study](https://pupper-independent-study.readthedocs.io/en/latest/) with [Gabrael Levine](https://www.gabrael.io/)  
 - **December 2023:** Led live demo for [Hands-On Robotics](https://handsonrobotics.org/) in New Zealand at CoRL 2023  
 - **July 2022:** Fieldwork in Santa Elena Bay Costa Rica tagging sharks, rays, and turtles  
-- **April 2022:** Sailed 3000nm through the Central Pacific to [Palmyra Atoll](https://stanfordatsea2022.blogspot.com/2022/06/palmyra-review.html)  
+- **April 2022:** Sailed 3000 nautical miles through the Central Pacific to [Palmyra Atoll](https://stanfordatsea2022.blogspot.com/2022/06/palmyra-review.html)  
 - **May 2021:** Paper on [Draco flight dynamics](https://academic.oup.com/icb/article/61/2/579/6278350) accepted to ICB  
