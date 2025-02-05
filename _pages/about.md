@@ -19,7 +19,7 @@ I am also excited about using computational tools from robotics and AI to study 
 **Recent updates!**
 
 - **January 2025:** [LGPL](https://lgpl-gaits.github.io) accepted to ICRA 2025  
-- **November 2024:** Talk on preference learning for CS 123  
+- **November 2024:** Talk on preference learning for [CS 123](https://cs123-stanford-2024.readthedocs.io/en/latest/)
 - **October 2024:** Presented [GRIT](https://ieeexplore.ieee.org/document/10403995) at IROS in Abu Dhabi and [FLAIR](https://arxiv.org/abs/2501.05717) at ECCV in Milan  
 - **June 2024:** Back in Santa Elena Bay, Costa Rica to survey Nurse Sharks with drones w/[SSR](https://stanfordstudentrobotics.org/). We are featured by [Stanford Doerr School](https://woods.stanford.edu/news/pixels-protection-drones-offer-high-tech-lifeline-shark-conservation) and ABC news  
 - **April 2024:** [Explore-EQA](https://explore-eqa.github.io/) accepted to RSS  
