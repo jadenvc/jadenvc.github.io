@@ -11,16 +11,17 @@ author_profile: true
 
 {% include base_path %}
 
+<p>Last Updated: September 2023. <br> An up to date list of all publications can be found on my <a href="https://scholar.google.com/citations?user=UgKZHLcAAAAJ&hl=en">Google Scholar</a> profile.</p>
+{% if site.category_archive.path %}
+<b>Filter:</b> {% include all-categories.html %}
+{% endif %}
+
+{% capture written_year %}'None'{% endcapture %}
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single-publication.html %}
 {% endfor %}
-
-# Conference Presentations
-
-Clark et. al., Featured Live Demo on Open-Source AI Robotics Education, [IEEE International Conference on Robotics and Automation; Workshop on Agile Movements: Animal Behavior, Biomechanics, and Robot Devices 2023](https://sites.google.com/view/agilemovement-2023icra/featured-live-demo?authuser=0)
-
-Clark et. al., [Pupper: An Open-Source AI Robotics Educational Curriculum and Platform, Conference on Robot Learning](https://corl2022.org/demonstrations/), 2022
-
-Clark et. al., Modeling Flight Dynamics in Gliding Lizards, The Society for Integrative and Comparative Biology, December 2020
-
-Clark et. al., Are sidewinder kinematics a function of substrate? Southwestern meeting for Organismal Biologists, 2018
