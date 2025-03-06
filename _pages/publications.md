@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<p>Last Updated: February 2025. <br> An up to date list of all publications can be found on my <a href="https://scholar.google.com/citations?user=UgKZHLcAAAAJ&hl=en">Google Scholar</a> profile.</p>
+<p> An up to date list of all publications can be found on my <a href="https://scholar.google.com/citations?user=UgKZHLcAAAAJ&hl=en">Google Scholar</a> profile.</p>
 {% if site.category_archive.path %}
 <b>Filter:</b> {% include all-categories.html %}
 {% endif %}
