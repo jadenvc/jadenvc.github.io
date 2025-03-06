@@ -10,7 +10,7 @@ date: 2025-02-01
 venue: 'ArXiv Preprint'
 preprint: ''
 header: 
-  teaser: 'images/front.gif'
+  teaser: 'front.gif'
 paper: 'https://arxiv.org/abs/2502.03729'
 code: '' 
 link: ''
