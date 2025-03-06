@@ -10,7 +10,7 @@ date: 2025-02-01
 venue: 'ICRA 2025'
 preprint: ''
 header: 
-  teaser: 'images/lgpl.png'
+  teaser: 'lgpl.png'
 paper: 'https://lgpl-gaits.github.io/'
 code: '' 
 link: ''
