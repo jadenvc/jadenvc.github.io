@@ -5,13 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-<p>Last Updated: February 2024. <br> An up to date list of all publications can be found on my <a href="https://scholar.google.com/citations?user=UgKZHLcAAAAJ&hl=en">Google Scholar</a> profile.</p>
+<p>Last Updated: February 2025. <br> An up to date list of all publications can be found on my <a href="https://scholar.google.com/citations?user=UgKZHLcAAAAJ&hl=en">Google Scholar</a> profile.</p>
 {% if site.category_archive.path %}
 <b>Filter:</b> {% include all-categories.html %}
 {% endif %}
