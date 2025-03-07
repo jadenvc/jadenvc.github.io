@@ -29,7 +29,6 @@
       {% if post.venue and post.venue != "" %}<span class="archive__item-publication" itemprop="description" style="color:#175E54">{{ post.venue }}</span>
       {% else %}<span class="archive__item-publication" itemprop="description">{{ post.preprint }}</span>{% endif %}
       {% if post.award and post.award != "" %}<span class="archive__item-publication" itemprop="description" style="color:red">{{ post.award }} 🎉</span>{% endif %}
-      <br> 
       <p class="archive__item-publication" itemprop="description">TLDR: {{ post.tldr }}</p>
 
       {% if post.paper and post.paper != "" %}<a href="{{ post.paper }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>{% endif %}
