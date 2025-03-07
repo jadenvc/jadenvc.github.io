@@ -1,12 +1,21 @@
 ---
 title: "Online Path Repair: Adapting to Robot Failures in Multi-Robot Aerial Surveys"
+authors_before: ""
+authors_after: ", Kunal Shah, Mac Schwager"
+award: ""
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-1
-excerpt: ''
+permalink: /publication/dib
+tldr: 'We propose a novel method to efficiently replan multi-robot aerial surveys online.'
 date: 2024-01-01
 venue: 'Robotics and Automation Letters'
-paperurl: 'https://ieeexplore.ieee.org/document/10403995'
-citation: 'Clark, Jaden Shah, Kunal Schwager, Mac (2024). &quot;Online Path Repair: Adapting to Robot Failures in Multi-Robot Aerial Surveys 1.&quot; <i>Robotics and Automation Letters</i>. (1).'
+preprint: ''
+header: 
+  teaser: ''
+paper: 'https://ieeexplore.ieee.org/document/10403995'
+code: '' 
+link: ''
+video: ''
+twitter: ''
+categories:
+  - Motion Planning
 ---
-
-
