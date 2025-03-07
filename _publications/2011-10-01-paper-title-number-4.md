@@ -1,11 +1,21 @@
 ---
-title: "Pupper: An Open-Source Quadruped Robot and Curriculum for AI Robotics Education"
+title: "Zero-shot Shark Tracking and Biometrics from Aerial Imagery"
+authors_before: "Chinmay Lalgudi, Mark Leone"
+authors_after: ", Sergio Madrigal-Mora, Mario Espinoza"
+award: ""
 collection: publications
-permalink: /publication/2011-10-01-paper-title-number-4
-excerpt: ''
-date: 2023-10-01
-venue: 'Under Review'
-paperurl: ''
-citation: 'Clark et. al, (2023). &quot;Pupper: An Open-Source Quadruped Robot and Curriculum for AI Robotics Education 1.&quot; <i>Under Review</i>. (1).'
+permalink: /publication/dib
+tldr: 'We demonstrate the pre-trained models can effectively track arbitrary shark species in various environments and be used to extract key biometrics.'
+date: 2025-01-01
+venue: 'ArXiv Preprint'
+preprint: ''
+header: 
+  teaser: 'sharky.gif'
+paper: 'https://arxiv.org/abs/2501.05717'
+code: '' 
+link: ''
+video: ''
+twitter: ''
+categories:
+  - Animal Behavior
 ---
-
