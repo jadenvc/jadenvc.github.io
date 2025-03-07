@@ -24,18 +24,48 @@
       alt="">
     </div>
     <div style="flex:4;">
-      <b class="archive__item-subtitle" itemprop="headline">{{ title }}</b>
-      <p class="archive__item-publication" itemprop="description">{{ post.authors_before }}<b>Jaden Clark{% if post.is_cofirst %}*{% endif %}</b>{{ post.authors_after }}</p>
-      {% if post.venue and post.venue != "" %}<span class="archive__item-publication" itemprop="description" style="color:#175E54">{{ post.venue }}</span>
-      {% else %}<span class="archive__item-publication" itemprop="description">{{ post.preprint }}</span>{% endif %}
-      {% if post.award and post.award != "" %}<span class="archive__item-publication" itemprop="description" style="color:red">{{ post.award }} 🎉</span>{% endif %}
-      <p class="archive__item-publication" itemprop="description">TLDR: {{ post.tldr }}</p>
+  <b class="archive__item-subtitle" itemprop="headline" style="margin:0; line-height:1.2;">
+    {{ title }}
+  </b>
+  <p class="archive__item-publication" itemprop="description" style="margin:0; line-height:1.2;">
+    {{ post.authors_before }}
+    <b>Jaden Clark{% if post.is_cofirst %}*{% endif %}</b>
+    {{ post.authors_after }}
+  </p>
+  {% if post.venue and post.venue != "" %}
+    <span class="archive__item-publication" itemprop="description" style="margin:0; line-height:1.2; color:#175E54">
+      {{ post.venue }}
+    </span>
+  {% else %}
+    <span class="archive__item-publication" itemprop="description" style="margin:0; line-height:1.2;">
+      {{ post.preprint }}
+    </span>
+  {% endif %}
+  {% if post.award and post.award != "" %}
+    <span class="archive__item-publication" itemprop="description" style="margin:0; line-height:1.2; color:red">
+      {{ post.award }} 🎉
+    </span>
+  {% endif %}
+  <p class="archive__item-publication" itemprop="description" style="margin:0; line-height:1.2;">
+    TLDR: {{ post.tldr }}
+  </p>
 
-      {% if post.paper and post.paper != "" %}<a href="{{ post.paper }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>{% endif %}
-      {% if post.code and post.code != "" %}<a href="{{ post.code }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>{% endif %}
-      {% if post.video and post.video != "" %}<a href="{{ post.video }}"><i class="fa fa-fw fa-video zoom" aria-hidden="true"></i></a>{% endif %}
-      {% if post.link and post.link != "" %}<a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>{% endif %}
-      {% if post.twitter and post.twitter != "" %}<a href="{{ post.twitter }}"><i class="fab fa-fw fa-twitter zoom" aria-hidden="true"></i></a>{% endif %}
-    </div>
+  {% if post.paper and post.paper != "" %}
+    <a href="{{ post.paper }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+  {% endif %}
+  {% if post.code and post.code != "" %}
+    <a href="{{ post.code }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+  {% endif %}
+  {% if post.video and post.video != "" %}
+    <a href="{{ post.video }}"><i class="fa fa-fw fa-video zoom" aria-hidden="true"></i></a>
+  {% endif %}
+  {% if post.link and post.link != "" %}
+    <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+  {% endif %}
+  {% if post.twitter and post.twitter != "" %}
+    <a href="{{ post.twitter }}"><i class="fab fa-fw fa-twitter zoom" aria-hidden="true"></i></a>
+  {% endif %}
+</div>
+
 </div>
 <br>
