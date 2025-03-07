@@ -12,8 +12,8 @@ preprint: ''
 header: 
   teaser: 'front.gif'
 paper: 'https://arxiv.org/abs/2502.03729'
-code: '' 
-link: ''
+code: 'https://rad-generalization.github.io' 
+link: 'https://x.com/jadenvclark/status/1889738618102509662'
 video: ''
 categories:
   - Robot learning
