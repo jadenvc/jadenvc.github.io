@@ -1,6 +1,0 @@
----
-title: "Previous: Gliding Lizard Flight Dynamics"
-excerpt: "Lizards of the genus Draco possess specialized morphological structures for gliding, including a patagium, throat lappets, and modified hindlimbs. Despite being among the most specialized reptilian gliders, it is currently unknown how Draco is able to maneuver effectively during flight. Here, we present a new computational method for characterizing the role of tail control on Draco glide distance and stability. We designed and printed a 3D Draco model, and estimated its lift and drag coefficients from wind tunnel experiments. Using the known mass and planar surface area of the Draco we developed a simplified, 3D simulation for Draco gliding, calculating longitudinal and lateral position and a pitch angle of the lizard with respect to a cartesian coordinate frame. Our model suggests an active tail improves both glide distance and stability in Draco. Our approach enables the replication and modification of existing gliders to better understand their performance and mechanics. This can be applied to extinct species, but also as a way of exploring the biomimetic potential of different morphological features. See [the paper](https://academic.oup.com/icb/article/61/2/579/6278350). <br/><img src='/images/draco_dynamics.png'>"
-collection: portfolio
----
-
