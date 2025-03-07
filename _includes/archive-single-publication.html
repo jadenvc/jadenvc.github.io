@@ -24,30 +24,30 @@
       alt="">
     </div>
     <div style="flex:4;">
-  <b class="archive__item-subtitle" itemprop="headline" style="margin:0; line-height:1.2;">
+  <b class="archive__item-subtitle" itemprop="headline" style="margin:0; line-height:1.4;">
     {{ title }}
   </b>
-  <p class="archive__item-publication" itemprop="description" style="margin:0; line-height:1.2;">
+  <p class="archive__item-publication" itemprop="description" style="margin:0; line-height:1.4;">
     {{ post.authors_before }}
     <b>Jaden Clark{% if post.is_cofirst %}*{% endif %}</b>
     {{ post.authors_after }}
   </p>
   {% if post.venue and post.venue != "" %}
-    <span class="archive__item-publication" itemprop="description" style="margin:0; line-height:1.2; color:#175E54">
+    <span class="archive__item-publication" itemprop="description" style="margin:0; line-height:1.4; color:#175E54">
       {{ post.venue }}
     </span>
   {% else %}
-    <span class="archive__item-publication" itemprop="description" style="margin:0; line-height:1.2;">
+    <span class="archive__item-publication" itemprop="description" style="margin:0; line-height:1.4;">
       {{ post.preprint }}
     </span>
   {% endif %}
   {% if post.award and post.award != "" %}
-    <span class="archive__item-publication" itemprop="description" style="margin:0; line-height:1.2; color:red">
+    <span class="archive__item-publication" itemprop="description" style="margin:0; line-height:1.4; color:red">
       {{ post.award }} 🎉
     </span>
   {% endif %}
-  <p class="archive__item-publication" itemprop="description" style="margin:0; line-height:1.2;">
-    TLDR: {{ post.tldr }}
+  <p class="archive__item-publication" itemprop="description" style="margin:0; line-height:1.4;">
+    <b>TLDR:}</b> {{ post.tldr }}
   </p>
 
   {% if post.paper and post.paper != "" %}
