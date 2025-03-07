@@ -7,7 +7,7 @@ collection: publications
 permalink: /publication/dib
 tldr: 'We propose a novel method to efficiently replan multi-robot aerial surveys online.'
 date: 2024-01-01
-venue: 'Robotics and Automation Letters'
+venue: 'Robotics and Automation Letters, IROS 2024'
 preprint: ''
 header: 
   teaser: ''
