@@ -1,6 +1,6 @@
 ---
 title: "Expressive Quadrupeds"
-excerpt: "My work explores how large language models (LLMs) and reinforcement learning from human feedback (RLHF) can be used to make quadrupeds like Pupper more friendly and expressive. Publication under review.
+excerpt: "
 
 <br/><img src='/images/med.png'>
 
