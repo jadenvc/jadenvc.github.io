@@ -10,7 +10,7 @@ date: 2021-05-01
 venue: 'Integrative and Comparative Biology'
 preprint: ''
 header: 
-  teaser: ''
+  teaser: 'draco_dynamics.png'
 paper: 'https://academic.oup.com/icb/article/61/2/579/6278350'
 code: '' 
 link: ''
