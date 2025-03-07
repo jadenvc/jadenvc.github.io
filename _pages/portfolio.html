@@ -9,6 +9,9 @@ author_profile: true
 
 
 {% for post in site.portfolio reversed %}
-  {% include archive-single.html %}
+  {% assign first_char = post.title | downcase | slice: 0, 1 %}
+  {% if first_char == 'p' %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
