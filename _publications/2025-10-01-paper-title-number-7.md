@@ -10,7 +10,7 @@ date: 2025-02-01
 venue: 'ArXiv Preprint'
 preprint: ''
 header: 
-  teaser: 'front.gif'
+  teaser: 'carrot.gif'
 paper: 'https://arxiv.org/abs/2502.03729'
 code: 'https://rad-generalization.github.io' 
 link: 'https://x.com/jadenvclark/status/1889738618102509662'
