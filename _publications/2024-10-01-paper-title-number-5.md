@@ -1,5 +1,5 @@
 ---
-title: "Action-Free Reasoning for Policy Generalization"
+title: "Efficient Exploration for Embodied Question Answering"
 authors_before: "Allen Ren"
 authors_after: ", Anushri Dixit, Masha Itkina, Anirudha Majumdar, Dorsa Sadigh"
 award: ""
@@ -10,7 +10,7 @@ date: 2024-03-01
 venue: 'RSS 2024'
 preprint: ''
 header: 
-  teaser: ''
+  teaser: 'explore.gif'
 paper: 'https://arxiv.org/abs/2403.15941'
 code: 'https://github.com/Stanford-ILIAD/explore-eqa' 
 link: 'https://explore-eqa.github.io'
