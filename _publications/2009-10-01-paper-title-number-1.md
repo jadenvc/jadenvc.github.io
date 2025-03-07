@@ -10,7 +10,7 @@ date: 2024-01-01
 venue: 'Robotics and Automation Letters, IROS 2024'
 preprint: ''
 header: 
-  teaser: ''
+  teaser: 'cov.png'
 paper: 'https://ieeexplore.ieee.org/document/10403995'
 code: '' 
 link: ''
