@@ -17,6 +17,7 @@ author_profile: true
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
     ## {{ year }}
+    {: #{{ year | slugify }} .archive__subtitle }
   {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
   {% include archive-single-publication.html %}
