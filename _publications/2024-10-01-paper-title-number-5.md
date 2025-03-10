@@ -1,7 +1,7 @@
 ---
 title: "Efficient Exploration for Embodied Question Answering"
-authors_before: "[Allen Ren](https://allenzren.github.io/)"
-authors_after: ", [Anushri Dixit](https://www.anushridixit.com/), [Masha Itkina](https://mashaitkina.weebly.com/), [Anirudha Majumdar](https://mae.princeton.edu/people/faculty/majumdar), [Dorsa Sadigh](https://dorsa.fyi/)"
+authors_before: "Allen Ren"
+authors_after: ", Anushri Dixit, Masha Itkina, Anirudha Majumdar, Dorsa Sadigh"
 award: ""
 collection: publications
 permalink: /publication/dib
