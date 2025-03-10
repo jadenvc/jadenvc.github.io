@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Generating Expressive Quadruped Behaviors via Language-Guided Preference Learning"
 authors_before: ""
-authors_after: ", Joey Hejna, Dorsa Sadigh"
+authors_after: ", [Joey Hejna](https://joeyhejna.com/), [Dorsa Sadigh](https://dorsa.fyi/)"
 award: ""
 collection: publications
 permalink: /publication/dib
