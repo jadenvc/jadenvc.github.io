@@ -1,7 +1,7 @@
 ---
 title: "Action-Free Reasoning for Policy Generalization"
 authors_before: ""
-authors_after: ", Suvir Mirchandani, Dorsa Sadigh, Suneel Belkhale"
+authors_after: ", [Suvir Mirchandani](https://suvirpmirchandani.com/), [Dorsa Sadigh](https://dorsa.fyi/), [Suneel Belkhale](https://suneel.belkhale.com/)"
 award: ""
 collection: publications
 permalink: /publication/dib
