@@ -1,7 +1,7 @@
 ---
 title: "Learned Objectives for Game Theoretic Planning"
-authors_before: "[Keiko Nagami](https://www.linkedin.com/in/keikonagami)*"
-authors_after: "*, [Mac Schwager](https://web.stanford.edu/~schwager/)"
+authors_before: "Keiko Nagami*"
+authors_after: "*, Mac Schwager"
 award: ""
 collection: publications
 permalink: /publication/dib
