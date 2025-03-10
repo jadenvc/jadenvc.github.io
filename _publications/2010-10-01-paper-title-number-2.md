@@ -1,7 +1,7 @@
 ---
 title: "Tail Control Enhances Gliding in Arboreal Lizards: An Integrative Study Using a 3D Geometric Model and Numerical Simulation"
 authors_before: ""
-authors_after: ", [Christopher Clark](https://www.lair.hmc.edu/chris-clark), [Timothy Higham](https://biomechanics.ucr.edu/people.html)"
+authors_after: ", Christopher Clark, Timothy Higham"
 award: ""
 collection: publications
 permalink: /publication/dib
