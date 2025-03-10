@@ -1,7 +1,7 @@
 ---
 title: "Zero-shot Shark Tracking and Biometrics from Aerial Imagery"
-authors_before: "Chinmay Lalgudi, Mark Leone"
-authors_after: ", Sergio Madrigal-Mora, Mario Espinoza"
+authors_before: "Chinmay Lalgudi, [Mark Leone](https://www.linkedin.com/in/mark-leone1)"
+authors_after: ", [Sergio Madrigal-Mora](https://www.researchgate.net/profile/Sergio-Madrigal-Mora), [Mario Espinoza](https://www.researchgate.net/profile/Mario-Espinoza-3)"
 award: ""
 collection: publications
 permalink: /publication/dib
