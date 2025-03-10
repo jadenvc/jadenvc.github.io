@@ -1,7 +1,7 @@
 ---
 title: "Online Path Repair: Adapting to Robot Failures in Multi-Robot Aerial Surveys"
 authors_before: ""
-authors_after: ", [Kunal Shah](https://www.linkedin.com/in/kshah0/), [Mac Schwager](https://web.stanford.edu/~schwager/)"
+authors_after: ", Kunal Shah, Mac Schwager"
 award: ""
 collection: publications
 permalink: /publication/dib
