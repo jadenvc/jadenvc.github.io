@@ -17,6 +17,5 @@ link: 'https://rad-generalization.github.io'
 video: ''
 twitter: 'https://x.com/jadenvclark/status/1889738618102509662'
 categories:
-  - Robot learning
-  - Foundation models
+  - Robotics
 ---
