@@ -42,7 +42,9 @@
 
 /* Override default variables */
 html {
-  font-size: 16px; /* Base font size */
+  font-size: 18px; /* Base font size - increased from 16px */
+  /* font-size: 17px; */ /* Alternative: slightly smaller increase */
+  /* font-size: 20px; */ /* Alternative: larger increase */
 }
 
 body {
@@ -56,7 +58,8 @@ body {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
   
   /* Text color */
-  color: #212529;
+  color: #000000; /* Pure black */
+  /* color: #1a1a1a; */ /* Soft black alternative - easier on eyes */
   
   /* Optional: Add smooth font rendering */
   -webkit-font-smoothing: antialiased;
@@ -67,7 +70,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Merriweather', Georgia, 'Times New Roman', serif;
   font-weight: 700;
-  color: #1a1a1a;
+  color: #000000; /* Black headings */
   line-height: 1.2;
 }
 
@@ -88,11 +91,12 @@ a {
 
 /* Navigation bar */
 .greedy-nav {
-  background: #ffffff; /* Keep navigation pure white for contrast */
-  box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+  background: #fafafa; /* Match body background for seamless look */
+  box-shadow: none; /* Remove shadow */
+  border-bottom: none; /* Remove any border */
   
   a {
-    color: #333333;
+    color: #000000; /* Black nav links */
     font-weight: 500;
     
     &:hover {
@@ -104,14 +108,15 @@ a {
 
 /* Masthead (header area) */
 .masthead {
-  background-color: #ffffff;
-  border-bottom: 1px solid #e9ecef;
+  background-color: #fafafa; /* Match body background */
+  border-bottom: none; /* Remove border */
+  box-shadow: none; /* Remove any shadow */
 }
 
 /* Page content */
 .page__content {
-  font-size: 1rem;
-  line-height: 1.6;
+  font-size: 1.1rem; /* Slightly larger than base */
+  line-height: 1.7; /* Increased line height for better readability */
   
   p {
     margin-bottom: 1.3em;
@@ -121,8 +126,10 @@ a {
 /* Author sidebar */
 .author__avatar {
   img {
-    border: 3px solid #ffffff;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    border: none; /* Remove white border */
+    box-shadow: none; /* Remove shadow */
+    /* Optional: add subtle rounded corners */
+    border-radius: 50%;
   }
 }
 
@@ -139,7 +146,7 @@ a {
 /* Footer */
 .page__footer {
   background-color: #fafafa; /* Match body background */
-  border-top: 1px solid #e9ecef;
+  border-top: none; /* Remove border */
   
   footer {
     color: #6c757d;
