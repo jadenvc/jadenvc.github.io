@@ -7,7 +7,7 @@ collection: publications
 permalink: /publication/dib
 tldr: 'We propose a new way to train generalist robot polices from human video data via action reasoning.'
 date: 2025-02-01
-venue: 'ArXiv Preprint'
+venue: 'CoRL 2025'
 preprint: ''
 header: 
   teaser: 'carrot.gif'
