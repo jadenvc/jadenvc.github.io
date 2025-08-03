@@ -12,7 +12,7 @@ preprint: ''
 header: 
   teaser: 'sharky.gif'
 paper: 'https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70116'
-code: '' 
+code: 'https://github.com/conservation-technology-group/FLAIR' 
 link: ''
 video: ''
 twitter: ''
