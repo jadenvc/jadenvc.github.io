@@ -17,6 +17,5 @@ link: ''
 video: ''
 twitter: ''
 categories:
-  - Robot learning
-  - Foundation models
+  - Robotics
 ---
