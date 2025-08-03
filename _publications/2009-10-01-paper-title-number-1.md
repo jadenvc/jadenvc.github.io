@@ -17,5 +17,5 @@ link: ''
 video: ''
 twitter: ''
 categories:
-  - Motion Planning
+  - Robotics
 ---
