@@ -17,6 +17,5 @@ link: 'https://lgpl-gaits.github.io/'
 video: 'https://www.youtube.com/watch?v=jkuhA4--F8w&ab_channel=JadenClark'
 twitter: 'https://x.com/jadenvclark/status/1892265877401133140'
 categories:
-  - Robot learning
-  - Foundation models
+  - Robotics
 ---
