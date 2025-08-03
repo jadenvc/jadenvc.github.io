@@ -17,6 +17,5 @@ link: 'https://explore-eqa.github.io'
 video: ''
 twitter: 'https://x.com/allenzren/status/1773453887816798604'
 categories:
-  - Robot learning
-  - Foundation models
+  - Robotics
 ---
