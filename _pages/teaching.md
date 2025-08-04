@@ -2,7 +2,7 @@
 layout: archive
 title: "Photography"
 permalink: /teaching/
-author_profile: true
+author_profile: false
 ---
 
 I love to take photos of animals I find in the wild. See more of my work on [Instagram](https://www.instagram.com/jadenvclark/) and higher resolution on [Flickr](https://www.flickr.com/photos/99187903@N04/)
