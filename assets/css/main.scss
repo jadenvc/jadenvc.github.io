@@ -78,6 +78,7 @@ h1, h2, h3, h4, h5, h6 {
 a {
   color: #0066cc;
   text-decoration: none;
+  font-family: inherit; /* Use parent font (Inter) */
   
   &:hover {
     color: #0052a3;
@@ -94,15 +95,21 @@ a {
   background: #fafafa; /* Match body background for seamless look */
   box-shadow: none; /* Remove shadow */
   border-bottom: none; /* Remove any border */
+  font-family: 'Inter', -apple-system, sans-serif; /* Force Inter font */
   
   a {
     color: #000000; /* Black nav links */
     font-weight: 500;
+    font-family: 'Inter', -apple-system, sans-serif; /* Force Inter font */
     
     &:hover {
       color: #0066cc;
       background-color: transparent;
     }
+  }
+  
+  .site-title {
+    font-family: 'Inter', -apple-system, sans-serif; /* Your name in nav */
   }
 }
 
