@@ -228,8 +228,10 @@ li code {
 .sidebar {
   position: relative !important; /* Override sticky positioning */
   opacity: 1 !important;
-  
-  @include breakpoint($large) {
+}
+
+@media (min-width: 1024px) {
+  .sidebar {
     position: relative !important;
     float: left;
     width: calc(200px - 1em);
@@ -238,33 +240,30 @@ li code {
     transition: none !important;
   }
   
-  @include breakpoint($x-large) {
-    width: calc(300px - 1em);
+  .page {
+    float: right;
+    width: calc(100% - 200px - 1em);
+    padding-right: calc(200px - 1em);
   }
 }
 
-/* Adjust main content to allow full width when needed */
-.page {
-  @include breakpoint($large) {
-    float: right;
-    width: calc(100% - 200px - 1em);
-    padding-right: 200px - 1em;
+@media (min-width: 1280px) {
+  .sidebar {
+    width: calc(300px - 1em);
   }
-
-  @include breakpoint($x-large) {
+  
+  .page {
     width: calc(100% - 300px - 1em);
-    padding-right: 300px - 1em;
+    padding-right: calc(300px - 1em);
   }
 }
 
 /* For pages without sidebar, use full width */
 body:not(.layout--single) .page,
 .layout--single:not(.author-profile) .page {
-  @include breakpoint($large) {
-    float: none;
-    width: 100%;
-    padding-right: 0;
-  }
+  float: none;
+  width: 100%;
+  padding-right: 0;
 }
 
 /* Optional: Add a subtle pattern or gradient to body */
@@ -276,11 +275,16 @@ body:not(.layout--single) .page,
 /* Photo Carousel Styles - Add this to the bottom of your assets/css/main.scss */
 .photo-carousel {
   position: relative;
-  max-width: 1000px; /* Increased from 800px */
+  max-width: 1200px; /* Increased for full width */
   margin: 40px auto;
   background: #fafafa;
   border-radius: 8px;
   overflow: visible; /* Changed from hidden to show caption below */
+  
+  /* Make carousel full width on large screens */
+  @media (min-width: 1024px) {
+    max-width: calc(100vw - 80px);
+  }
 }
 
 .carousel-container {
