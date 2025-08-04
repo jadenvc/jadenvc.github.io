@@ -278,6 +278,27 @@ li code {
   font-family: 'Inter', sans-serif !important;
   font-size: 1rem;
   line-height: 1.5;
+  z-index: 10; /* Ensure caption is above image */
+  pointer-events: auto; /* Ensure caption is clickable */
+}
+
+.carousel-caption a {
+  color: #66b3ff; /* Light blue for visibility on dark background */
+  text-decoration: underline;
+  font-family: 'Inter', sans-serif !important;
+  position: relative; /* Ensure links are positioned */
+  z-index: 11; /* Ensure links are above caption */
+  pointer-events: auto; /* Ensure links are clickable */
+  cursor: pointer; /* Show pointer cursor */
+}
+
+.carousel-caption a:hover {
+  color: #99ccff; /* Even lighter blue on hover */
+  text-decoration: none;
+}
+
+.carousel-caption a:visited {
+  color: #cc99ff; /* Light purple for visited links */
 }
 .carousel-prev,
 .carousel-next {
