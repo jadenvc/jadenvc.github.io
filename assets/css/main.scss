@@ -271,42 +271,45 @@ li code {
   background-color: #f0f0f0;
 }
 
-.carousel-caption-container {
-  position: relative;
-  background: #f5f5f5;
-  border-radius: 0 0 8px 8px;
-}
-
-.carousel-caption {
-  display: none; /* Hide all captions by default */
-  background: #f5f5f5; /* Light background instead of dark */
-  color: #000000; /* Black text */
+/* Caption styles for captions INSIDE slides */
+.carousel-slide .carousel-caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  color: white;
   padding: 20px;
   font-family: 'Inter', sans-serif !important;
   font-size: 1rem;
   line-height: 1.5;
   text-align: center;
-  min-height: 60px; /* Ensure consistent height */
+  display: block; /* Always show caption */
 }
 
-.carousel-caption.active {
-  display: block; /* Show only active caption */
-}
-
-.carousel-caption a {
-  color: #0066cc; /* Your standard link blue */
+.carousel-slide .carousel-caption a {
+  color: #66b3ff; /* Light blue for visibility on dark background */
   text-decoration: underline;
   font-family: 'Inter', sans-serif !important;
   cursor: pointer;
 }
 
-.carousel-caption a:hover {
-  color: #0052a3; /* Darker blue on hover */
+.carousel-slide .carousel-caption a:hover {
+  color: #99ccff; /* Even lighter blue on hover */
   text-decoration: none;
 }
 
-.carousel-caption a:visited {
-  color: #551a8b; /* Your standard visited purple */
+.carousel-slide .carousel-caption a:visited {
+  color: #cc99ff; /* Light purple for visited links */
+}
+
+/* Remove the separate caption container styles since you're not using that structure */
+.carousel-caption-container {
+  display: none;
+}
+
+.carousel-caption {
+  /* Remove conflicting styles */
 }
 
 .carousel-prev,
