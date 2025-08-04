@@ -18,11 +18,11 @@ I am also excited about using computational tools from robotics and AI to aid wi
       <div class="carousel-caption">Working with nurse sharks in marine conservation research</div>
     </div>
     <div class="carousel-slide">
-      <img src="/images/photo2.jpg" alt="Photo 2">
+      <img src="/images/atheris.jpeg" alt="Photo 2">
       <div class="carousel-caption">Caption for your second photo</div>
     </div>
     <div class="carousel-slide">
-      <img src="/images/photo3.jpg" alt="Photo 3">
+      <img src="/images/gorilla_portrait.jpeg" alt="Photo 3">
       <div class="carousel-caption">Caption for your third photo</div>
     </div>
     <!-- Add more slides as needed -->
