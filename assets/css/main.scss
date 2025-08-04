@@ -38,9 +38,18 @@
 /* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Merriweather:wght@700&display=swap');
 
-/* Force Inter font globally with highest specificity */
-* {
+/* Force Inter font globally EXCEPT for icon fonts */
+*:not(.fa):not(.fas):not(.far):not(.fab):not(.fal):not(.fad):not(.ai):not([class*="icon"]) {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif !important;
+}
+
+/* Ensure icon fonts keep their proper font families */
+.fa, .fas, .far, .fab, .fal, .fad,
+.ai, .ai-lg, .ai-2x, .ai-3x, .ai-4x, .ai-5x,
+[class*="fa-"],
+[class*="ai-"],
+.svg-inline--fa {
+  font-family: 'Font Awesome 5 Free', 'Font Awesome 5 Brands', 'Academicons' !important;
 }
 
 /* Specific overrides for all page elements */
