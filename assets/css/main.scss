@@ -285,6 +285,8 @@ body:not(.layout--single) .page,
   height: 200px;
   border-radius: 50%;
   margin-bottom: 15px;
+  object-fit: cover; /* This prevents distortion */
+  object-position: center; /* Centers the image */
 }
 
 .inline-author-profile .author-name {
