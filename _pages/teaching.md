@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Photography"
+title: "Media"
 permalink: /teaching/
 author_profile: false
 ---
