@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jaden Clark"
+title: ""
 excerpt: "About me"
 layout: single
 author_profile: false  # Turn off default sidebar
@@ -24,7 +24,7 @@ redirect_from:
   </div>
   
   <div class="about-content">
-    <h1>Jaden</h1>
+    <h1>Jaden Clark</h1>
     
     <p>I am a first year PhD student in AI and robotics at Stanford supported by the <a href="https://knight-hennessy.stanford.edu/">Knight-Hennessy Fellowship</a> and NSF Graduate Research Fellowship. I previously completed my undergrad at Stanford where I worked with <a href="https://dorsa.fyi/">Dr. Dorsa Sadigh</a>, <a href="https://web.stanford.edu/~schwager/">Dr. Mac Schwager</a>, and <a href="https://engineering.stanford.edu/people/karen-liu">Dr. Karen Liu</a>. My primary research interests are in learning for decision making and robotics.</p>
     
