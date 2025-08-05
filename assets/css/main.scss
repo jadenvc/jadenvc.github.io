@@ -266,6 +266,93 @@ body:not(.layout--single) .page,
   padding-right: 0;
 }
 
+/* Custom About Page Layout */
+.about-container {
+  display: flex;
+  gap: 40px;
+  margin-bottom: 60px;
+  align-items: flex-start;
+}
+
+.inline-author-profile {
+  flex-shrink: 0;
+  width: 250px;
+  text-align: center;
+}
+
+.inline-author-profile .author-avatar {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.inline-author-profile .author-name {
+  font-family: 'Inter', sans-serif !important;
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 10px 0 5px;
+}
+
+.inline-author-profile .author-bio {
+  font-family: 'Inter', sans-serif !important;
+  color: #6c757d;
+  font-size: 0.9rem;
+  margin-bottom: 20px;
+}
+
+.inline-author-profile .author-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+}
+
+.inline-author-profile .author-links li {
+  font-family: 'Inter', sans-serif !important;
+  font-size: 0.9rem;
+  margin-bottom: 8px;
+}
+
+.inline-author-profile .author-links a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.inline-author-profile .author-links a:hover {
+  text-decoration: underline;
+}
+
+.about-content {
+  flex-grow: 1;
+}
+
+.about-content h1 {
+  margin-top: 0;
+  font-family: 'Merriweather', Georgia, serif !important;
+  font-size: 2.5rem;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .about-container {
+    flex-direction: column;
+    gap: 30px;
+  }
+  
+  .inline-author-profile {
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+}
+
+/* Make carousel full width after the about section */
+.photo-carousel {
+  margin-top: 60px;
+  max-width: 100%;
+}
+
 /* Optional: Add a subtle pattern or gradient to body */
 /* body {
   background-image: 
