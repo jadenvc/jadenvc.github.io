@@ -12,7 +12,6 @@ redirect_from:
 <div class="about-container">
   <div class="inline-author-profile">
     <img src="/images/avatar3.jpeg" alt="Jaden Clark" class="author-avatar">
-    <h3 class="author-name">Jaden Clark</h3>
     <p class="author-bio">Stanford University</p>
     
     <ul class="author-links">
