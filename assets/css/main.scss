@@ -137,6 +137,9 @@ a {
   box-shadow: none; /* Remove shadow */
   border-bottom: none; /* Remove any border */
   font-family: 'Inter', -apple-system, sans-serif !important; /* Force Inter font */
+  max-width: 1200px; /* Match content width */
+  margin: 0 auto; /* Center the nav */
+  padding: 0 20px; /* Add padding to match content */
   
   a {
     color: #000000; /* Black nav links */
@@ -156,6 +159,15 @@ a {
   .visible-links {
     font-family: 'Inter', -apple-system, sans-serif !important;
   }
+}
+
+/* Wrapper for consistent page margins */
+.page__content,
+.about-container,
+.archive {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
 }
 /* Masthead (header area) */
 .masthead {
@@ -230,40 +242,42 @@ li code {
   opacity: 1 !important;
 }
 
-@media (min-width: 1024px) {
-  .sidebar {
-    position: relative !important;
-    float: left;
-    width: calc(200px - 1em);
-    opacity: 1 !important;
-    -webkit-transition: none !important;
-    transition: none !important;
-  }
+/* Remove all sidebar-related spacing for pages without author profile */
+.layout--single.no-author-profile .page,
+.layout--archive.no-author-profile .page,
+body:not(.layout--splash) .page:not(.author-profile) {
+  width: 100% !important;
+  float: none !important;
+  padding-right: 0 !important;
+  margin-right: 0 !important;
+}
+
+/* Override the theme's default sidebar spacing */
+.page {
+  width: 100% !important;
+  float: none !important;
+  padding-right: 0 !important;
   
-  .page {
-    float: right;
-    width: calc(100% - 200px - 1em);
-    padding-right: calc(200px - 1em);
+  /* Only add spacing when sidebar is present */
+  .author-profile ~ & {
+    @media (min-width: 1024px) {
+      float: right;
+      width: calc(100% - 200px - 1em);
+      padding-right: calc(200px - 1em);
+    }
+    
+    @media (min-width: 1280px) {
+      width: calc(100% - 300px - 1em);
+      padding-right: calc(300px - 1em);
+    }
   }
 }
 
-@media (min-width: 1280px) {
-  .sidebar {
-    width: calc(300px - 1em);
-  }
-  
-  .page {
-    width: calc(100% - 300px - 1em);
-    padding-right: calc(300px - 1em);
-  }
-}
-
-/* For pages without sidebar, use full width */
-body:not(.layout--single) .page,
-.layout--single:not(.author-profile) .page {
-  float: none;
-  width: 100%;
-  padding-right: 0;
+/* Ensure archive pages use full width */
+.archive {
+  width: 100% !important;
+  float: none !important;
+  padding-right: 0 !important;
 }
 
 /* Custom About Page Layout */
@@ -282,8 +296,8 @@ body:not(.layout--single) .page,
 
 .inline-author-profile .author-avatar {
   width: 200px;
-  height: 200px;
-  border-radius: 50%;
+  height: 250px; /* Taller for oval shape */
+  border-radius: 50%; /* This creates oval with non-square dimensions */
   margin-bottom: 15px;
   object-fit: cover; /* This prevents distortion */
   object-position: center; /* Centers the image */
