@@ -3,14 +3,36 @@ permalink: /
 title: "Jaden Clark"
 excerpt: "About me"
 layout: single
-author_profile: true
+author_profile: false  # Turn off default sidebar
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a first year PhD student in AI and robotics at Stanford supported by the [Knight-Hennessy Fellowship](https://knight-hennessy.stanford.edu/) and NSF Graduate Research Fellowship. I previously completed my undergrad at Stanford where I worked with [Dr. Dorsa Sadigh](https://dorsa.fyi/), [Dr. Mac Schwager](https://web.stanford.edu/~schwager/), and [Dr. Karen Liu](https://engineering.stanford.edu/people/karen-liu). My primary research interests are in learning for decision making and robotics.
+<div class="about-container">
+  <div class="inline-author-profile">
+    <img src="/images/avatar3.jpeg" alt="Jaden Clark" class="author-avatar">
+    <h3 class="author-name">Jaden Clark</h3>
+    <p class="author-bio">Stanford University</p>
+    
+    <ul class="author-links">
+      <li><i class="fas fa-fw fa-map-marker-alt"></i> Palo Alto, Ca</li>
+      <li><a href="https://www.researchgate.net/profile/Jaden-Clark-2"><i class="fab fa-fw fa-researchgate"></i> ResearchGate</a></li>
+      <li><a href="https://twitter.com/jadenvclark"><i class="fab fa-fw fa-twitter"></i> Twitter</a></li>
+      <li><a href="https://github.com/jadenvc"><i class="fab fa-fw fa-github"></i> Github</a></li>
+      <li><a href="https://scholar.google.com/citations?user=UgKZHLcAAAAJ&hl=en&oi=ao"><i class="ai ai-google-scholar"></i> Google Scholar</a></li>
+    </ul>
+  </div>
+  
+  <div class="about-content">
+    <h1>Jaden Clark</h1>
+    
+    <p>I am a first year PhD student in AI and robotics at Stanford supported by the <a href="https://knight-hennessy.stanford.edu/">Knight-Hennessy Fellowship</a> and NSF Graduate Research Fellowship. I previously completed my undergrad at Stanford where I worked with <a href="https://dorsa.fyi/">Dr. Dorsa Sadigh</a>, <a href="https://web.stanford.edu/~schwager/">Dr. Mac Schwager</a>, and <a href="https://engineering.stanford.edu/people/karen-liu">Dr. Karen Liu</a>. My primary research interests are in learning for decision making and robotics.</p>
+    
+    <p>I am also excited about using computational tools from robotics and AI to aid wildlife conservation and research. I currently collaborate most closely with <a href="https://www.researchgate.net/profile/Mario-Espinoza-3">Dr. Mario Espinoza</a> at Universidad de Costa Rica to develop low cost technology to study and conserve marine animals. I previously worked at <a href="https://www.mbari.org/">MBARI</a> developing new algorithms for agile underwater vehicles, studied movement ecology of large marine animals with <a href="https://www.stanfordblocklab.org/">Dr. Barbara Block</a> at Stanford, and flight biomechanics with <a href="https://biomechanics.ucr.edu/">Dr. Tim Higham</a> at UC Riverside.</p>
+  </div>
+</div>
 
-I am also excited about using computational tools from robotics and AI to aid wildlife conservation and research. I curently collaborate most closely with [Dr. Mario Espinoza](https://www.researchgate.net/profile/Mario-Espinoza-3) at Universidad de Costa Rica to develop low cost technology to study and conserve marine animals. I previously worked at [MBARI](https://www.mbari.org/) developing new algorithms for agile underwater vehicles, studied movement ecology of large marine animals with [Dr. Barbara Block](https://www.stanfordblocklab.org/) at Stanford, and flight biomechanics with [Dr. Tim Higham](https://biomechanics.ucr.edu/) at UC Riverside.
+<div style="clear: both;"></div>
 
 {% include photo-carousel.html %}
