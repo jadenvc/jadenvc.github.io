@@ -273,11 +273,24 @@ body:not(.layout--splash) .page:not(.author-profile) {
   }
 }
 
-/* Ensure archive pages use full width */
-.archive {
+/* Ensure the main page wrapper aligns properly */
+.page {
   width: 100% !important;
   float: none !important;
   padding-right: 0 !important;
+  
+  &__inner-wrap {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+}
+
+/* Specific fix for about page */
+body.layout--single .page__content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
 }
 
 /* Custom About Page Layout */
