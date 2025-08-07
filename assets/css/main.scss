@@ -557,13 +557,30 @@ body.page-about .about-container {
   }
 }
 
-.masthead__inner-wrap {
+/* Match all content containers to align with the site title */
+.masthead__inner-wrap,
+.page__content,
+.page__inner-wrap,
+.archive,
+.about-container,
+.initial-content > *,
+.page__related,
+.page__footer-follow,
+.page__footer-copyright {
   max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 20px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem !important;  /* Match the site title's padding */
+  padding-right: 20px;
 }
 
-/* Remove extra indentation from the site title */
-.greedy-nav .site-title {
+/* Ensure the site title is flush with the container's left edge */
+.greedy-nav {
   padding-left: 0;
 }
+
+.greedy-nav .site-title {
+  margin-left: 1rem;  /* Add a bit of margin to the site title */
+}
+
+
