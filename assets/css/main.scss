@@ -583,4 +583,52 @@ body.page-about .about-container {
   margin-left: 1rem;  /* Add a bit of margin to the site title */
 }
 
+/* Precise alignment fix - add to the end of your main.scss file */
 
+/* Add a wrapper class to all content to debug alignment */
+.masthead__inner-wrap,
+.page__inner-wrap {
+  position: relative;
+}
+
+/* Add a visual guide to see alignment */
+.masthead__inner-wrap::before,
+.page__inner-wrap::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 1px;
+  background-color: rgba(255, 0, 0, 0.2); /* Red line to see alignment */
+  z-index: 1000;
+}
+
+/* Force consistent container sizing */
+.masthead__inner-wrap,
+.page__inner-wrap,
+.page__content,
+.archive__item-body,
+.page__footer-follow,
+.page__footer-copyright {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Remove all left padding from navigation */
+.greedy-nav {
+  padding-left: 0;
+}
+
+/* Remove any list padding */
+.visible-links {
+  padding-left: 0;
+  margin-left: 0;
+}
+
+/* Set site title left margin to match content padding */
+.masthead__menu-item--lg {
+  padding-left: 0;
+  margin-left: 0;
+}
