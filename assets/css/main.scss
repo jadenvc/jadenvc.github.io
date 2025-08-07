@@ -556,3 +556,14 @@ body.page-about .about-container {
     font-size: 0.9rem;
   }
 }
+
+.masthead__inner-wrap {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Remove extra indentation from the site title */
+.greedy-nav .site-title {
+  padding-left: 0;
+}
