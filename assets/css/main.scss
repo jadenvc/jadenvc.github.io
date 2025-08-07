@@ -301,6 +301,20 @@ body.layout--single .page__content {
   align-items: flex-start;
 }
 
+/* Fix alignment on about page specifically */
+body.layout--home .page__content,
+body.page-about .page__content {
+  padding: 0;
+}
+
+/* Adjust about container to add back the padding */
+body.layout--home .about-container,
+body.page-about .about-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
 .inline-author-profile {
   flex-shrink: 0;
   width: 250px;
