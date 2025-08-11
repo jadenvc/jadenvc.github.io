@@ -10,7 +10,7 @@ date: 2024-10-01
 venue: 'ECCV Computer Vision for Ecology 2024'
 preprint: ''
 header:
-teaser: 'sharky.gif'
+  teaser: 'sharky.gif'
 paper: 'https://link.springer.com/chapter/10.1007/978-3-031-92387-6_7'
 code: ''
 link: ''
