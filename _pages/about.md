@@ -33,5 +33,5 @@ redirect_from:
 </div>
 
 <div style="clear: both;"></div>
-
+Highlights:
 {% include photo-carousel.html %}
