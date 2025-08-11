@@ -1,3 +1,4 @@
+---
 title: "Deep Learning for Automated Shark Detection and Biometrics Without Keypoints"
 authors_before: ""
 authors_after: "*, Chinmay Lalgudi*, Mark Leone*, Sergio Madrigal-Mora, Mario Espinoza"
@@ -17,3 +18,4 @@ video: ''
 twitter: ''
 categories:
 - Animal Behavior
+---
