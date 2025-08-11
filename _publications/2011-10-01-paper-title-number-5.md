@@ -16,5 +16,4 @@ link: ''
 video: ''
 twitter: ''
 categories:
-
 - Animal Behavior
