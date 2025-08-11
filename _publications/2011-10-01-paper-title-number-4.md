@@ -10,7 +10,7 @@ date: 2025-01-01
 venue: 'Methods in Ecology and Evolution'
 preprint: ''
 header: 
-  teaser: 'sharky.gif'
+  teaser: 'output_blacktip.gif'
 paper: 'https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.70116'
 code: 'https://github.com/conservation-technology-group/FLAIR' 
 link: ''
