@@ -12,7 +12,7 @@ redirect_from:
 <div class="about-container">
   <div class="inline-author-profile">
     <img src="/images/avatar3.jpeg" alt="" class="author-avatar">
-    <p class="author-bio">Stanford University</p>
+    <p class="author-bio">jvclark@stanford.edu </p>
     
     <ul class="author-links">
       <li><i class="fas fa-fw fa-map-marker-alt"></i> Palo Alto, Ca</li>
