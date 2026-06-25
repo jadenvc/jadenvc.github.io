@@ -46,6 +46,7 @@ $pine: #24574a;
 $blueprint: #315d75;
 $rule: rgba(91, 73, 40, 0.18);
 $container: 1180px;
+$home-content: 760px;
 $gutter: 1.25rem;
 
 html {
@@ -303,7 +304,7 @@ pre {
 }
 
 .about-content {
-  max-width: 760px;
+  max-width: $home-content;
 }
 
 .about-content h1 {
@@ -325,9 +326,22 @@ pre {
   font-size: 1.04rem;
 }
 
+.home-content-band {
+  display: grid;
+  grid-template-columns: minmax(140px, 170px) minmax(0, 1fr);
+  gap: clamp(1.6rem, 4vw, 3.25rem);
+  max-width: $container;
+  margin: -1rem auto 0;
+}
+
+.home-content-band__inner {
+  grid-column: 2;
+  max-width: $home-content;
+}
+
 .photo-carousel {
   position: relative;
-  max-width: $container;
+  max-width: 100%;
   margin: 2.5rem auto 0;
   padding: 0;
 }
@@ -414,10 +428,10 @@ pre {
   right: 0.85rem;
 }
 
-@media (min-width: $container) {
+@media (min-width: $home-content) {
   .carousel-prev,
   .carousel-next {
-    top: calc(#{$container} * 642 / 971 / 2);
+    top: calc(#{$home-content} * 642 / 971 / 2);
   }
 }
 
@@ -716,6 +730,16 @@ body.page-exploration .archive > .page__title {
     grid-template-columns: 1fr;
   }
 
+  .home-content-band {
+    display: block;
+    max-width: $container;
+    margin-top: -0.5rem;
+  }
+
+  .home-content-band__inner {
+    max-width: 100%;
+  }
+
   .inline-author-profile {
     position: static;
     margin-top: 0;
@@ -777,7 +801,7 @@ body.page-exploration .archive > .page__title {
       display: flex;
       gap: 1em;
       padding: 0.25em 0;
-      font-size: 0.9em;
+      font-size: 1.04rem;
       border-bottom: 1px solid #f0f0f0;
 
       &:last-child {
