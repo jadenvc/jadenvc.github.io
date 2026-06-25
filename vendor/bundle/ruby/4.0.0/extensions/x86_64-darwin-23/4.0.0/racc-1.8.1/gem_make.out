@@ -1,0 +1,19 @@
+current directory: /Users/jadenclark/Documents/UMI-FT/UMIFT_Data/jadenvc.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+/usr/local/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/jadenclark/Documents/UMI-FT/UMIFT_Data/jadenvc.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260624-18190-5lh42q sitelibdir\=./.gem.20260624-18190-5lh42q clean
+
+current directory: /Users/jadenclark/Documents/UMI-FT/UMIFT_Data/jadenvc.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260624-18190-5lh42q sitelibdir\=./.gem.20260624-18190-5lh42q
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: dylib (/usr/local/Cellar/ruby/4.0.5/lib/libruby.4.0.dylib) was built for newer macOS version (14.0) than being linked (13.3)
+
+current directory: /Users/jadenclark/Documents/UMI-FT/UMIFT_Data/jadenvc.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260624-18190-5lh42q sitelibdir\=./.gem.20260624-18190-5lh42q install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20260624-18190-5lh42q/racc
+
+current directory: /Users/jadenclark/Documents/UMI-FT/UMIFT_Data/jadenvc.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260624-18190-5lh42q sitelibdir\=./.gem.20260624-18190-5lh42q clean

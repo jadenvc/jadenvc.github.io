@@ -1,0 +1,19 @@
+current directory: /Users/jadenclark/Documents/UMI-FT/UMIFT_Data/jadenvc.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/usr/local/opt/ruby@3.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/jadenclark/Documents/UMI-FT/UMIFT_Data/jadenvc.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260624-35074-xu844m sitelibdir\=./.gem.20260624-35074-xu844m clean
+
+current directory: /Users/jadenclark/Documents/UMI-FT/UMIFT_Data/jadenvc.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260624-35074-xu844m sitelibdir\=./.gem.20260624-35074-xu844m
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: dylib (/usr/local/Cellar/ruby@3.3/3.3.11/lib/libruby.3.3.dylib) was built for newer macOS version (14.0) than being linked (13.3)
+
+current directory: /Users/jadenclark/Documents/UMI-FT/UMIFT_Data/jadenvc.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260624-35074-xu844m sitelibdir\=./.gem.20260624-35074-xu844m install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20260624-35074-xu844m/racc
+
+current directory: /Users/jadenclark/Documents/UMI-FT/UMIFT_Data/jadenvc.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260624-35074-xu844m sitelibdir\=./.gem.20260624-35074-xu844m clean

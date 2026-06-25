@@ -1,0 +1,24 @@
+current directory: /Users/jadenclark/Documents/UMI-FT/UMIFT_Data/jadenvc.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+/usr/local/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/jadenclark/Documents/UMI-FT/UMIFT_Data/jadenvc.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260624-18190-uuhscq sitelibdir\=./.gem.20260624-18190-uuhscq clean
+
+current directory: /Users/jadenclark/Documents/UMI-FT/UMIFT_Data/jadenvc.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260624-18190-uuhscq sitelibdir\=./.gem.20260624-18190-uuhscq
+compiling ruby_http_parser.c
+ruby_http_parser.c:373:17: warning: comparison of integers of different signs: 'size_t' (aka 'unsigned long') and 'long' [-Wsign-compare]
+    if (nparsed < len)
+        ~~~~~~~ ^ ~~~
+1 warning generated.
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+ld: warning: dylib (/usr/local/Cellar/ruby/4.0.5/lib/libruby.4.0.dylib) was built for newer macOS version (14.0) than being linked (13.3)
+
+current directory: /Users/jadenclark/Documents/UMI-FT/UMIFT_Data/jadenvc.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260624-18190-uuhscq sitelibdir\=./.gem.20260624-18190-uuhscq install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20260624-18190-uuhscq
+
+current directory: /Users/jadenclark/Documents/UMI-FT/UMIFT_Data/jadenvc.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260624-18190-uuhscq sitelibdir\=./.gem.20260624-18190-uuhscq clean
