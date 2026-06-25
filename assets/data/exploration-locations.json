@@ -1,0 +1,1381 @@
+[
+  {
+    "id": "cambodia",
+    "name": "Cambodia",
+    "type": "research",
+    "coordinates": [
+      104.991,
+      12.5657
+    ],
+    "preview": "/images/exploration/research/cambodia/DSC01774.jpeg",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/research/cambodia/DSC01774.jpeg",
+        "alt": "Cambodia - DSC01774.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/cambodia/IMG_1936.jpeg",
+        "alt": "Cambodia - IMG_1936.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/cambodia/IMG_1958.jpeg",
+        "alt": "Cambodia - IMG_1958.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/cambodia/IMG_2011.jpeg",
+        "alt": "Cambodia - IMG_2011.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/cambodia/IMG_2064.jpeg",
+        "alt": "Cambodia - IMG_2064.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/cambodia/IMG_5711.jpeg",
+        "alt": "Cambodia - IMG_5711.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/cambodia/J_IMG007.png",
+        "alt": "Cambodia - J_IMG007.png"
+      }
+    ],
+    "ambiguous": true
+  },
+  {
+    "id": "oahu",
+    "name": "Oahu, Hawaii",
+    "type": "research",
+    "coordinates": [
+      -157.8583,
+      21.4389
+    ],
+    "preview": "/images/exploration/research/oahu/IMG_0292.JPG",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/research/oahu/IMG_0292.JPG",
+        "alt": "Oahu, Hawaii - IMG_0292.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/oahu/IMG_0339.JPG",
+        "alt": "Oahu, Hawaii - IMG_0339.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/oahu/IMG_2240.jpeg",
+        "alt": "Oahu, Hawaii - IMG_2240.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/oahu/IMG_4822.jpeg",
+        "alt": "Oahu, Hawaii - IMG_4822.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/oahu/R1-07564-010A.JPG",
+        "alt": "Oahu, Hawaii - R1-07564-010A.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/oahu/Stanford%40SEA-0516.jpeg",
+        "alt": "Oahu, Hawaii - Stanford@SEA-0516.jpeg"
+      }
+    ],
+    "ambiguous": false
+  },
+  {
+    "id": "palmyra",
+    "name": "Palmyra Atoll",
+    "type": "research",
+    "coordinates": [
+      -162.0786,
+      5.8833
+    ],
+    "preview": "/images/exploration/research/palmyra/cover.jpeg",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/research/palmyra/cover.jpeg",
+        "alt": "Palmyra Atoll - cover.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/palmyra/DSC_5497.jpeg",
+        "alt": "Palmyra Atoll - DSC_5497.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/palmyra/DSC_5615.jpeg",
+        "alt": "Palmyra Atoll - DSC_5615.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/palmyra/IMG_0531.JPG",
+        "alt": "Palmyra Atoll - IMG_0531.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/palmyra/IMG_0610.JPG",
+        "alt": "Palmyra Atoll - IMG_0610.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/palmyra/IMG_0647.JPG",
+        "alt": "Palmyra Atoll - IMG_0647.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/palmyra/IMG_0699.JPG",
+        "alt": "Palmyra Atoll - IMG_0699.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/palmyra/IMG_0706.JPG",
+        "alt": "Palmyra Atoll - IMG_0706.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/palmyra/IMG_0724.JPG",
+        "alt": "Palmyra Atoll - IMG_0724.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/palmyra/IMG_1698.jpeg",
+        "alt": "Palmyra Atoll - IMG_1698.jpeg"
+      }
+    ],
+    "ambiguous": false
+  },
+  {
+    "id": "santa-elena-bay",
+    "name": "Santa Elena Bay, Costa Rica",
+    "type": "research",
+    "coordinates": [
+      -85.78,
+      10.88
+    ],
+    "preview": "/images/exploration/research/santa_elena_bay/1aad1ed4-0877-46c9-b426-37dfb1274df0.jpg",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/research/santa_elena_bay/1aad1ed4-0877-46c9-b426-37dfb1274df0.jpg",
+        "alt": "Santa Elena Bay, Costa Rica - 1aad1ed4-0877-46c9-b426-37dfb1274df0.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/santa_elena_bay/229D91B4-7963-429D-9862-99B99D6AB371.JPG",
+        "alt": "Santa Elena Bay, Costa Rica - 229D91B4-7963-429D-9862-99B99D6AB371.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/santa_elena_bay/9400c0b3-5673-4897-8b23-7b56ee23773e.jpg",
+        "alt": "Santa Elena Bay, Costa Rica - 9400c0b3-5673-4897-8b23-7b56ee23773e.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/santa_elena_bay/99170288-3945-4b96-a50a-1eb2d38a4713.jpg",
+        "alt": "Santa Elena Bay, Costa Rica - 99170288-3945-4b96-a50a-1eb2d38a4713.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/santa_elena_bay/b9ff297f-b3c1-4152-aa42-86e1056feb1b.jpg",
+        "alt": "Santa Elena Bay, Costa Rica - b9ff297f-b3c1-4152-aa42-86e1056feb1b.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/santa_elena_bay/D996C6F6-6C85-4FAD-BBE8-488A9D3BEAC1.JPG",
+        "alt": "Santa Elena Bay, Costa Rica - D996C6F6-6C85-4FAD-BBE8-488A9D3BEAC1.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/santa_elena_bay/EC97D79B-5439-45F6-9DD8-9311DF945AA6.JPG",
+        "alt": "Santa Elena Bay, Costa Rica - EC97D79B-5439-45F6-9DD8-9311DF945AA6.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/santa_elena_bay/IMG_0766.JPG",
+        "alt": "Santa Elena Bay, Costa Rica - IMG_0766.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/santa_elena_bay/IMG_1062.JPG",
+        "alt": "Santa Elena Bay, Costa Rica - IMG_1062.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/research/santa_elena_bay/IMG_9394.JPG",
+        "alt": "Santa Elena Bay, Costa Rica - IMG_9394.JPG"
+      }
+    ],
+    "ambiguous": false
+  },
+  {
+    "id": "abu-dhabi",
+    "name": "Abu Dhabi, United Arab Emirates",
+    "type": "travel",
+    "coordinates": [
+      54.3773,
+      24.4539
+    ],
+    "preview": "/images/exploration/travel/abu_dhabi/DSC_4936.JPG",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/abu_dhabi/DSC_4936.JPG",
+        "alt": "Abu Dhabi, United Arab Emirates - DSC_4936.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/abu_dhabi/DSC_4954.JPG",
+        "alt": "Abu Dhabi, United Arab Emirates - DSC_4954.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/abu_dhabi/DSC_4960.JPG",
+        "alt": "Abu Dhabi, United Arab Emirates - DSC_4960.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/abu_dhabi/DSC_4962.JPG",
+        "alt": "Abu Dhabi, United Arab Emirates - DSC_4962.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/abu_dhabi/DSC_4970.JPG",
+        "alt": "Abu Dhabi, United Arab Emirates - DSC_4970.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/abu_dhabi/DSC06613.JPG",
+        "alt": "Abu Dhabi, United Arab Emirates - DSC06613.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/abu_dhabi/DSC06651.JPG",
+        "alt": "Abu Dhabi, United Arab Emirates - DSC06651.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/abu_dhabi/IMG_7270.jpeg",
+        "alt": "Abu Dhabi, United Arab Emirates - IMG_7270.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/abu_dhabi/IMG_7343.jpeg",
+        "alt": "Abu Dhabi, United Arab Emirates - IMG_7343.jpeg"
+      }
+    ],
+    "ambiguous": false
+  },
+  {
+    "id": "arizona",
+    "name": "Arizona, United States",
+    "type": "travel",
+    "coordinates": [
+      -111.0937,
+      34.0489
+    ],
+    "preview": "/images/exploration/travel/arizona/DSC_8018.JPG",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/arizona/DSC_8018.JPG",
+        "alt": "Arizona, United States - DSC_8018.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/arizona/IMG_0772.jpeg",
+        "alt": "Arizona, United States - IMG_0772.jpeg"
+      }
+    ],
+    "ambiguous": true
+  },
+  {
+    "id": "baja",
+    "name": "Baja California Peninsula, Mexico",
+    "type": "travel",
+    "coordinates": [
+      -112.5,
+      27.5
+    ],
+    "preview": "/images/exploration/travel/baja/IMG_1084.JPG",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/baja/IMG_1084.JPG",
+        "alt": "Baja California Peninsula, Mexico - IMG_1084.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/baja/IMG_1242.JPG",
+        "alt": "Baja California Peninsula, Mexico - IMG_1242.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/baja/IMG_1597.JPG",
+        "alt": "Baja California Peninsula, Mexico - IMG_1597.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/baja/IMG_1661.JPG",
+        "alt": "Baja California Peninsula, Mexico - IMG_1661.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/baja/IMG_3713.JPG",
+        "alt": "Baja California Peninsula, Mexico - IMG_3713.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/baja/IMG_4256.jpeg",
+        "alt": "Baja California Peninsula, Mexico - IMG_4256.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/baja/IMG_4322.jpeg",
+        "alt": "Baja California Peninsula, Mexico - IMG_4322.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/baja/IMG_4403.jpeg",
+        "alt": "Baja California Peninsula, Mexico - IMG_4403.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/baja/IMG_4433.jpeg",
+        "alt": "Baja California Peninsula, Mexico - IMG_4433.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/baja/IMG_4608.jpeg",
+        "alt": "Baja California Peninsula, Mexico - IMG_4608.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/baja/IMG_4616.jpeg",
+        "alt": "Baja California Peninsula, Mexico - IMG_4616.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/baja/IMG_4981.jpeg",
+        "alt": "Baja California Peninsula, Mexico - IMG_4981.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/baja/R1-04438-003A.JPG",
+        "alt": "Baja California Peninsula, Mexico - R1-04438-003A.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/baja/R1-04438-005A.JPG",
+        "alt": "Baja California Peninsula, Mexico - R1-04438-005A.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/baja/R1-04438-011A.JPG",
+        "alt": "Baja California Peninsula, Mexico - R1-04438-011A.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/baja/R1-04439-013A.JPG",
+        "alt": "Baja California Peninsula, Mexico - R1-04439-013A.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/baja/R1-04440-000A_0001.JPG",
+        "alt": "Baja California Peninsula, Mexico - R1-04440-000A_0001.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/baja/R1-04440-004A.JPG",
+        "alt": "Baja California Peninsula, Mexico - R1-04440-004A.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/baja/R1-04440-007A.JPG",
+        "alt": "Baja California Peninsula, Mexico - R1-04440-007A.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/baja/R1-04440-012A.JPG",
+        "alt": "Baja California Peninsula, Mexico - R1-04440-012A.JPG"
+      }
+    ],
+    "ambiguous": true
+  },
+  {
+    "id": "bali",
+    "name": "Bali, Indonesia",
+    "type": "travel",
+    "coordinates": [
+      115.1889,
+      -8.4095
+    ],
+    "preview": "/images/exploration/travel/bali/DSC06782.JPG",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/bali/DSC06782.JPG",
+        "alt": "Bali, Indonesia - DSC06782.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/bali/DSC07392.JPG",
+        "alt": "Bali, Indonesia - DSC07392.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/bali/DSC07479.JPG",
+        "alt": "Bali, Indonesia - DSC07479.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/bali/DSC07507.JPG",
+        "alt": "Bali, Indonesia - DSC07507.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/bali/IMG_8376.jpeg",
+        "alt": "Bali, Indonesia - IMG_8376.jpeg"
+      }
+    ],
+    "ambiguous": false
+  },
+  {
+    "id": "belize",
+    "name": "Belize",
+    "type": "travel",
+    "coordinates": [
+      -88.4976,
+      17.1899
+    ],
+    "preview": "/images/exploration/travel/belize/IMG_6663.jpeg",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/belize/IMG_6663.jpeg",
+        "alt": "Belize - IMG_6663.jpeg"
+      }
+    ],
+    "ambiguous": true
+  },
+  {
+    "id": "boulder",
+    "name": "Boulder, Colorado",
+    "type": "travel",
+    "coordinates": [
+      -105.2705,
+      40.015
+    ],
+    "preview": "/images/exploration/travel/boulder/IMG_1764.jpeg",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/boulder/IMG_1764.jpeg",
+        "alt": "Boulder, Colorado - IMG_1764.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/boulder/IMG_1766.jpeg",
+        "alt": "Boulder, Colorado - IMG_1766.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/boulder/IMG_1834.jpeg",
+        "alt": "Boulder, Colorado - IMG_1834.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/boulder/IMG_1847.jpeg",
+        "alt": "Boulder, Colorado - IMG_1847.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/boulder/IMG_2051.jpeg",
+        "alt": "Boulder, Colorado - IMG_2051.jpeg"
+      }
+    ],
+    "ambiguous": false
+  },
+  {
+    "id": "costa-rica",
+    "name": "Costa Rica",
+    "type": "travel",
+    "coordinates": [
+      -84.0907,
+      9.9281
+    ],
+    "preview": "/images/exploration/travel/costa_rica/431EFA30-9AB9-4A11-9092-4638D5B55203.JPG",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/costa_rica/431EFA30-9AB9-4A11-9092-4638D5B55203.JPG",
+        "alt": "Costa Rica - 431EFA30-9AB9-4A11-9092-4638D5B55203.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/costa_rica/14826E2E-A79E-4383-835D-3762E295A512.JPG",
+        "alt": "Costa Rica - 14826E2E-A79E-4383-835D-3762E295A512.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/costa_rica/9819615C-D0AC-428B-A71B-452448B66AD2.JPG",
+        "alt": "Costa Rica - 9819615C-D0AC-428B-A71B-452448B66AD2.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/costa_rica/IMG_5919.jpeg",
+        "alt": "Costa Rica - IMG_5919.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/costa_rica/IMG_6107.jpeg",
+        "alt": "Costa Rica - IMG_6107.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/costa_rica/IMG_6257.jpeg",
+        "alt": "Costa Rica - IMG_6257.jpeg"
+      }
+    ],
+    "ambiguous": true
+  },
+  {
+    "id": "fiji",
+    "name": "Fiji",
+    "type": "travel",
+    "coordinates": [
+      178.065,
+      -17.7134
+    ],
+    "preview": "/images/exploration/travel/fiji/FullSizeRender.jpg",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/fiji/FullSizeRender.jpg",
+        "alt": "Fiji - FullSizeRender.jpg"
+      }
+    ],
+    "ambiguous": true
+  },
+  {
+    "id": "guatemala",
+    "name": "Guatemala",
+    "type": "travel",
+    "coordinates": [
+      -90.2308,
+      15.7835
+    ],
+    "preview": "/images/exploration/travel/guatemala/DSC_4208.jpeg",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/guatemala/DSC_4208.jpeg",
+        "alt": "Guatemala - DSC_4208.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/guatemala/IMG_1578.jpeg",
+        "alt": "Guatemala - IMG_1578.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/guatemala/IMG_6418.jpeg",
+        "alt": "Guatemala - IMG_6418.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/guatemala/IMG_6537.jpeg",
+        "alt": "Guatemala - IMG_6537.jpeg"
+      }
+    ],
+    "ambiguous": true
+  },
+  {
+    "id": "italy",
+    "name": "Italy",
+    "type": "travel",
+    "coordinates": [
+      12.5674,
+      41.8719
+    ],
+    "preview": "/images/exploration/travel/italy/DSC06355.JPG",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/italy/DSC06355.JPG",
+        "alt": "Italy - DSC06355.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/italy/IMG_1522.jpeg",
+        "alt": "Italy - IMG_1522.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/italy/IMG_7057.jpeg",
+        "alt": "Italy - IMG_7057.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/italy/IMG_7136.jpeg",
+        "alt": "Italy - IMG_7136.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/italy/Screenshot%202024-10-04%20at%2010.20.26%E2%80%AFPM.png",
+        "alt": "Italy - Screenshot 2024-10-04 at 10.20.26 PM.png"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/italy/Screenshot%202024-10-04%20at%2010.26.49%E2%80%AFPM.png",
+        "alt": "Italy - Screenshot 2024-10-04 at 10.26.49 PM.png"
+      }
+    ],
+    "ambiguous": true
+  },
+  {
+    "id": "kauai",
+    "name": "Kauai, Hawaii",
+    "type": "travel",
+    "coordinates": [
+      -159.5261,
+      22.0964
+    ],
+    "preview": "/images/exploration/travel/kauai/DSC00008.jpeg",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/kauai/DSC00008.jpeg",
+        "alt": "Kauai, Hawaii - DSC00008.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/kauai/DSC00033.jpeg",
+        "alt": "Kauai, Hawaii - DSC00033.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/kauai/DSC00089.jpeg",
+        "alt": "Kauai, Hawaii - DSC00089.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/kauai/DSC00117.JPG",
+        "alt": "Kauai, Hawaii - DSC00117.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/kauai/DSC00210.jpeg",
+        "alt": "Kauai, Hawaii - DSC00210.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/kauai/DSC00214.jpeg",
+        "alt": "Kauai, Hawaii - DSC00214.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/kauai/DSC09673.jpeg",
+        "alt": "Kauai, Hawaii - DSC09673.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/kauai/DSC09855.jpeg",
+        "alt": "Kauai, Hawaii - DSC09855.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/kauai/DSC09865.jpeg",
+        "alt": "Kauai, Hawaii - DSC09865.jpeg"
+      }
+    ],
+    "ambiguous": false
+  },
+  {
+    "id": "komodo",
+    "name": "Komodo, Indonesia",
+    "type": "travel",
+    "coordinates": [
+      119.4893,
+      -8.589
+    ],
+    "preview": "/images/exploration/travel/komodo/AGF04271.JPG",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/komodo/AGF04271.JPG",
+        "alt": "Komodo, Indonesia - AGF04271.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/komodo/DSC_6490.JPG",
+        "alt": "Komodo, Indonesia - DSC_6490.JPG"
+      },
+      {
+        "type": "video",
+        "src": "/images/exploration/travel/komodo/GX017641.mov",
+        "alt": "Komodo, Indonesia - GX017641.mov"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/komodo/IMG_7639.JPG",
+        "alt": "Komodo, Indonesia - IMG_7639.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/komodo/IMG_8264.jpeg",
+        "alt": "Komodo, Indonesia - IMG_8264.jpeg"
+      }
+    ],
+    "ambiguous": false
+  },
+  {
+    "id": "korea",
+    "name": "Korea",
+    "type": "travel",
+    "coordinates": [
+      126.978,
+      37.5665
+    ],
+    "preview": "/images/exploration/travel/korea/IMG_0564.JPG",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/korea/IMG_0564.JPG",
+        "alt": "Korea - IMG_0564.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/korea/IMG_3171.jpeg",
+        "alt": "Korea - IMG_3171.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/korea/IMG_3219.jpeg",
+        "alt": "Korea - IMG_3219.jpeg"
+      }
+    ],
+    "ambiguous": true
+  },
+  {
+    "id": "mexico-city",
+    "name": "Mexico City, Mexico",
+    "type": "travel",
+    "coordinates": [
+      -99.1332,
+      19.4326
+    ],
+    "preview": "/images/exploration/travel/mexico_city/IMG_1044.jpeg",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/mexico_city/IMG_1044.jpeg",
+        "alt": "Mexico City, Mexico - IMG_1044.jpeg"
+      }
+    ],
+    "ambiguous": false
+  },
+  {
+    "id": "mozambique",
+    "name": "Mozambique",
+    "type": "travel",
+    "coordinates": [
+      35.5296,
+      -18.6657
+    ],
+    "preview": "/images/exploration/travel/mozambique/cover.jpeg",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/mozambique/cover.jpeg",
+        "alt": "Mozambique - cover.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/mozambique/DSC_4019.jpeg",
+        "alt": "Mozambique - DSC_4019.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/mozambique/DSC_4100.jpeg",
+        "alt": "Mozambique - DSC_4100.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/mozambique/DSC_4235.jpeg",
+        "alt": "Mozambique - DSC_4235.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/mozambique/IMG_3488.jpeg",
+        "alt": "Mozambique - IMG_3488.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/mozambique/IMG_3508.jpeg",
+        "alt": "Mozambique - IMG_3508.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/mozambique/P1000313.jpeg",
+        "alt": "Mozambique - P1000313.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/mozambique/P1000584.jpeg",
+        "alt": "Mozambique - P1000584.jpeg"
+      }
+    ],
+    "ambiguous": true
+  },
+  {
+    "id": "negros-oriental",
+    "name": "Negros Oriental, Philippines",
+    "type": "travel",
+    "coordinates": [
+      123.3054,
+      9.6282
+    ],
+    "preview": "/images/exploration/travel/negros_oriental/IMG_1118.JPG",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/negros_oriental/IMG_1118.JPG",
+        "alt": "Negros Oriental, Philippines - IMG_1118.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/negros_oriental/IMG_1877.jpeg",
+        "alt": "Negros Oriental, Philippines - IMG_1877.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/negros_oriental/P1098307.JPG",
+        "alt": "Negros Oriental, Philippines - P1098307.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/negros_oriental/whaleshark.jpeg",
+        "alt": "Negros Oriental, Philippines - whaleshark.jpeg"
+      }
+    ],
+    "ambiguous": false
+  },
+  {
+    "id": "raja-ampat",
+    "name": "Raja Ampat, Indonesia",
+    "type": "travel",
+    "coordinates": [
+      130.826,
+      -0.233
+    ],
+    "preview": "/images/exploration/travel/raja_ampat/0000063_photo.JPG",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/raja_ampat/0000063_photo.JPG",
+        "alt": "Raja Ampat, Indonesia - 0000063_photo.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/raja_ampat/DSC_5040.JPG",
+        "alt": "Raja Ampat, Indonesia - DSC_5040.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/raja_ampat/DSC_5174.JPG",
+        "alt": "Raja Ampat, Indonesia - DSC_5174.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/raja_ampat/DSC_5839.JPG",
+        "alt": "Raja Ampat, Indonesia - DSC_5839.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/raja_ampat/DSC06980.JPG",
+        "alt": "Raja Ampat, Indonesia - DSC06980.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/raja_ampat/DSC06990.JPG",
+        "alt": "Raja Ampat, Indonesia - DSC06990.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/raja_ampat/DSC07005.JPG",
+        "alt": "Raja Ampat, Indonesia - DSC07005.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/raja_ampat/DSC07013.JPG",
+        "alt": "Raja Ampat, Indonesia - DSC07013.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/raja_ampat/DSC07049.JPG",
+        "alt": "Raja Ampat, Indonesia - DSC07049.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/raja_ampat/DSC07066.JPG",
+        "alt": "Raja Ampat, Indonesia - DSC07066.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/raja_ampat/GOPR7423.JPG",
+        "alt": "Raja Ampat, Indonesia - GOPR7423.JPG"
+      },
+      {
+        "type": "video",
+        "src": "/images/exploration/travel/raja_ampat/GX017505.MP4",
+        "alt": "Raja Ampat, Indonesia - GX017505.MP4"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/raja_ampat/IMG_0318.JPG",
+        "alt": "Raja Ampat, Indonesia - IMG_0318.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/raja_ampat/IMG_0396.jpeg",
+        "alt": "Raja Ampat, Indonesia - IMG_0396.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/raja_ampat/IMG_0438.jpeg",
+        "alt": "Raja Ampat, Indonesia - IMG_0438.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/raja_ampat/IMG_0444.jpeg",
+        "alt": "Raja Ampat, Indonesia - IMG_0444.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/raja_ampat/IMG_0470.jpeg",
+        "alt": "Raja Ampat, Indonesia - IMG_0470.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/raja_ampat/IMG_0512.jpeg",
+        "alt": "Raja Ampat, Indonesia - IMG_0512.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/raja_ampat/IMG_8049.jpeg",
+        "alt": "Raja Ampat, Indonesia - IMG_8049.jpeg"
+      }
+    ],
+    "ambiguous": false
+  },
+  {
+    "id": "singapore",
+    "name": "Singapore",
+    "type": "travel",
+    "coordinates": [
+      103.8198,
+      1.3521
+    ],
+    "preview": "/images/exploration/travel/singapore/DSC01167.JPG",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/singapore/DSC01167.JPG",
+        "alt": "Singapore - DSC01167.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/singapore/DSC01212.JPG",
+        "alt": "Singapore - DSC01212.JPG"
+      }
+    ],
+    "ambiguous": false
+  },
+  {
+    "id": "sumatra",
+    "name": "Sumatra, Indonesia",
+    "type": "travel",
+    "coordinates": [
+      101.3431,
+      -0.5897
+    ],
+    "preview": "/images/exploration/travel/sumatra/DSC00192.JPG",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/sumatra/DSC00192.JPG",
+        "alt": "Sumatra, Indonesia - DSC00192.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/sumatra/DSC08308.JPG",
+        "alt": "Sumatra, Indonesia - DSC08308.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/sumatra/DSC09547.JPG",
+        "alt": "Sumatra, Indonesia - DSC09547.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/sumatra/DSC09585.JPG",
+        "alt": "Sumatra, Indonesia - DSC09585.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/sumatra/DSC09604.JPG",
+        "alt": "Sumatra, Indonesia - DSC09604.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/sumatra/IMG_0421.jpeg",
+        "alt": "Sumatra, Indonesia - IMG_0421.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/sumatra/IMG_0496.jpeg",
+        "alt": "Sumatra, Indonesia - IMG_0496.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/sumatra/IMG_1626.JPG",
+        "alt": "Sumatra, Indonesia - IMG_1626.JPG"
+      }
+    ],
+    "ambiguous": true
+  },
+  {
+    "id": "sumba",
+    "name": "Sumba, Indonesia",
+    "type": "travel",
+    "coordinates": [
+      120,
+      -9.7
+    ],
+    "preview": "/images/exploration/travel/sumba/IMG_1331.jpeg",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/sumba/IMG_1331.jpeg",
+        "alt": "Sumba, Indonesia - IMG_1331.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/sumba/IMG_1378.JPG",
+        "alt": "Sumba, Indonesia - IMG_1378.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/sumba/IMG_1536.jpeg",
+        "alt": "Sumba, Indonesia - IMG_1536.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/sumba/IMG_4485.jpeg",
+        "alt": "Sumba, Indonesia - IMG_4485.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/sumba/IMG_4566.jpeg",
+        "alt": "Sumba, Indonesia - IMG_4566.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/sumba/IMG_4610.jpeg",
+        "alt": "Sumba, Indonesia - IMG_4610.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/sumba/IMG_4614.jpeg",
+        "alt": "Sumba, Indonesia - IMG_4614.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/sumba/IMG_4674.jpeg",
+        "alt": "Sumba, Indonesia - IMG_4674.jpeg"
+      }
+    ],
+    "ambiguous": true
+  },
+  {
+    "id": "tahoe",
+    "name": "Lake Tahoe, United States",
+    "type": "travel",
+    "coordinates": [
+      -120.044,
+      39.0968
+    ],
+    "preview": "/images/exploration/travel/tahoe/IMG_0065.jpeg",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/tahoe/IMG_0065.jpeg",
+        "alt": "Lake Tahoe, United States - IMG_0065.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/tahoe/IMG_0101.jpeg",
+        "alt": "Lake Tahoe, United States - IMG_0101.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/tahoe/IMG_0131.jpeg",
+        "alt": "Lake Tahoe, United States - IMG_0131.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/tahoe/IMG_0330.jpeg",
+        "alt": "Lake Tahoe, United States - IMG_0330.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/tahoe/IMG_8923.JPG",
+        "alt": "Lake Tahoe, United States - IMG_8923.JPG"
+      }
+    ],
+    "ambiguous": false
+  },
+  {
+    "id": "thai-islands",
+    "name": "Thai Islands, Thailand",
+    "type": "travel",
+    "coordinates": [
+      98.3381,
+      7.9519
+    ],
+    "preview": "/images/exploration/travel/thai_islands/DSC00609.JPG",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/thai_islands/DSC00609.JPG",
+        "alt": "Thai Islands, Thailand - DSC00609.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/thai_islands/DSC00778.JPG",
+        "alt": "Thai Islands, Thailand - DSC00778.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/thai_islands/GOPR7931.JPG",
+        "alt": "Thai Islands, Thailand - GOPR7931.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/thai_islands/IMG_0910.jpeg",
+        "alt": "Thai Islands, Thailand - IMG_0910.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/thai_islands/IMG_0963.jpeg",
+        "alt": "Thai Islands, Thailand - IMG_0963.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/thai_islands/IMG_4240.JPG",
+        "alt": "Thai Islands, Thailand - IMG_4240.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/thai_islands/IMG_4282.JPG",
+        "alt": "Thai Islands, Thailand - IMG_4282.JPG"
+      }
+    ],
+    "ambiguous": true
+  },
+  {
+    "id": "uganda",
+    "name": "Uganda",
+    "type": "travel",
+    "coordinates": [
+      32.2903,
+      1.3733
+    ],
+    "preview": "/images/exploration/travel/uganda/DD508DEF-2B85-4301-9E7D-71DB5492DD54.jpg",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/DD508DEF-2B85-4301-9E7D-71DB5492DD54.jpg",
+        "alt": "Uganda - DD508DEF-2B85-4301-9E7D-71DB5492DD54.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/DSC_0342-2.jpg",
+        "alt": "Uganda - DSC_0342-2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/DSC_0427.jpg",
+        "alt": "Uganda - DSC_0427.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/DSC_0500.jpg",
+        "alt": "Uganda - DSC_0500.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/DSC_0540.jpg",
+        "alt": "Uganda - DSC_0540.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/DSC_0845.jpg",
+        "alt": "Uganda - DSC_0845.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/DSC_1075.jpg",
+        "alt": "Uganda - DSC_1075.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/DSC_1865.jpg",
+        "alt": "Uganda - DSC_1865.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/DSC_1907-Enhanced-NR.jpg",
+        "alt": "Uganda - DSC_1907-Enhanced-NR.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/DSC_2596.jpg",
+        "alt": "Uganda - DSC_2596.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/DSC_3051.jpg",
+        "alt": "Uganda - DSC_3051.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/DSC_3143.jpg",
+        "alt": "Uganda - DSC_3143.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/DSC_3552.jpg",
+        "alt": "Uganda - DSC_3552.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/DSC_3591.jpg",
+        "alt": "Uganda - DSC_3591.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/DSC_3836-Enhanced-NR.jpg",
+        "alt": "Uganda - DSC_3836-Enhanced-NR.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/DSC_9264.jpg",
+        "alt": "Uganda - DSC_9264.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/DSC_9544.jpg",
+        "alt": "Uganda - DSC_9544.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/DSC_9834-2.jpg",
+        "alt": "Uganda - DSC_9834-2.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/IMG_0102.JPG",
+        "alt": "Uganda - IMG_0102.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/IMG_0176.jpeg",
+        "alt": "Uganda - IMG_0176.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/IMG_0182.JPG",
+        "alt": "Uganda - IMG_0182.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/IMG_0369.JPG",
+        "alt": "Uganda - IMG_0369.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/IMG_0375.JPG",
+        "alt": "Uganda - IMG_0375.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/IMG_0447.JPG",
+        "alt": "Uganda - IMG_0447.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/IMG_0460.JPG",
+        "alt": "Uganda - IMG_0460.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/IMG_0551.JPG",
+        "alt": "Uganda - IMG_0551.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/IMG_2820.jpeg",
+        "alt": "Uganda - IMG_2820.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/IMG_2995.jpeg",
+        "alt": "Uganda - IMG_2995.jpeg"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/uganda/IMG_3001.jpeg",
+        "alt": "Uganda - IMG_3001.jpeg"
+      }
+    ],
+    "ambiguous": true
+  },
+  {
+    "id": "yosemite",
+    "name": "Yosemite National Park, California",
+    "type": "travel",
+    "coordinates": [
+      -119.5383,
+      37.8651
+    ],
+    "preview": "/images/exploration/travel/yosemite/IMG_7898.JPG",
+    "media": [
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/yosemite/IMG_7898.JPG",
+        "alt": "Yosemite National Park, California - IMG_7898.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/yosemite/IMG_7927.JPG",
+        "alt": "Yosemite National Park, California - IMG_7927.JPG"
+      },
+      {
+        "type": "image",
+        "src": "/images/exploration/travel/yosemite/IMG_7971.JPG",
+        "alt": "Yosemite National Park, California - IMG_7971.JPG"
+      }
+    ],
+    "ambiguous": false
+  }
+]

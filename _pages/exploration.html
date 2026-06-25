@@ -1,0 +1,187 @@
+---
+layout: archive
+title: ""
+permalink: /exploration/
+author_profile: false
+---
+
+<div class="exploration-page">
+  <p class="exploration-intro">I am enjoying exploring the world.</p>
+  <div class="exploration-map-shell">
+    <div class="exploration-legend" aria-label="Map legend">
+      <span><i class="pin-key pin-key--research"></i>Research</span>
+      <span><i class="pin-key pin-key--travel"></i>Travel</span>
+    </div>
+    <svg id="exploration-map" role="img" aria-label="World map with exploration pins"></svg>
+    <div id="exploration-popup" class="exploration-popup" hidden></div>
+  </div>
+
+  <section id="exploration-details" class="exploration-details" hidden>
+    <h2></h2>
+    <div class="exploration-gallery"></div>
+  </section>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
+<script>
+(function () {
+  const svg = d3.select("#exploration-map");
+  const shell = document.querySelector(".exploration-map-shell");
+  const popup = document.getElementById("exploration-popup");
+  const details = document.getElementById("exploration-details");
+  const gallery = details.querySelector(".exploration-gallery");
+  const detailsTitle = details.querySelector("h2");
+  const width = 1100;
+  const height = 560;
+
+  svg.attr("viewBox", `0 0 ${width} ${height}`);
+
+  const projection = d3.geoNaturalEarth1()
+    .scale(190)
+    .translate([width / 2, height / 2 + 12]);
+  const path = d3.geoPath(projection);
+  const defs = svg.append("defs");
+
+  const researchGradient = defs.append("radialGradient")
+    .attr("id", "pin-gradient-research")
+    .attr("cx", "35%")
+    .attr("cy", "30%");
+  researchGradient.append("stop").attr("offset", "0%").attr("stop-color", "#ffd1ca");
+  researchGradient.append("stop").attr("offset", "45%").attr("stop-color", "#d94a3f");
+  researchGradient.append("stop").attr("offset", "100%").attr("stop-color", "#8f1f1b");
+
+  const travelGradient = defs.append("radialGradient")
+    .attr("id", "pin-gradient-travel")
+    .attr("cx", "35%")
+    .attr("cy", "30%");
+  travelGradient.append("stop").attr("offset", "0%").attr("stop-color", "#d6f3df");
+  travelGradient.append("stop").attr("offset", "45%").attr("stop-color", "#4ba76c");
+  travelGradient.append("stop").attr("offset", "100%").attr("stop-color", "#1f653d");
+
+  const mapLayer = svg.append("g");
+  const pinLayer = svg.append("g");
+  let currentTransform = d3.zoomIdentity;
+  let popupPinned = false;
+
+  function pinTransform(d) {
+    const point = currentTransform.apply(projection(d.coordinates));
+    const scale = 1;
+    return `translate(${point[0]},${point[1]}) scale(${scale})`;
+  }
+
+  const zoom = d3.zoom()
+    .scaleExtent([1, 7])
+    .on("zoom", function (event) {
+      currentTransform = event.transform;
+      mapLayer.attr("transform", event.transform);
+      pinLayer.selectAll(".exploration-pin").attr("transform", pinTransform);
+    });
+
+  svg.call(zoom);
+
+  function escapeHtml(value) {
+    return String(value).replace(/[&<>"']/g, function (char) {
+      return {
+        "&": "&amp;",
+        "<": "&lt;",
+        ">": "&gt;",
+        "\"": "&quot;",
+        "'": "&#39;"
+      }[char];
+    });
+  }
+
+  function showDetails(location) {
+    details.hidden = false;
+    detailsTitle.textContent = location.name;
+    gallery.innerHTML = location.media.map(function (item) {
+      const src = escapeHtml(item.src);
+      const alt = escapeHtml(item.alt || location.name);
+      if (item.type === "video") {
+        return `<video controls playsinline preload="metadata" src="${src}" aria-label="${alt}"></video>`;
+      }
+      return `<img src="${src}" alt="${alt}" loading="lazy">`;
+    }).join("");
+    details.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  }
+
+  function showPopup(location) {
+    const point = currentTransform.apply(projection(location.coordinates));
+    popup.hidden = false;
+    popupPinned = false;
+    popup.innerHTML = `
+      <button class="exploration-popup__close" type="button" aria-label="Close">×</button>
+      <div class="exploration-popup__title">${escapeHtml(location.name)}</div>
+      <img src="${escapeHtml(location.preview)}" alt="${escapeHtml(location.name)}">
+    `;
+    popup.style.left = `${point[0]}px`;
+    popup.style.top = `${point[1]}px`;
+    popup.querySelector(".exploration-popup__close").addEventListener("click", function (event) {
+      event.stopPropagation();
+      popupPinned = false;
+      popup.hidden = true;
+    });
+  }
+
+  function hidePopup() {
+    if (!popupPinned) popup.hidden = true;
+  }
+
+  Promise.all([
+    d3.json("/assets/data/countries-110m.json"),
+    d3.json("/assets/data/exploration-locations.json")
+  ]).then(function ([world, locations]) {
+    const countries = topojson.feature(world, world.objects.countries);
+    mapLayer.selectAll("path")
+      .data(countries.features)
+      .join("path")
+      .attr("d", path)
+      .attr("class", "exploration-country");
+
+    const pins = pinLayer.selectAll(".exploration-pin")
+      .data(locations)
+      .join("g")
+      .attr("class", function (d) { return `exploration-pin exploration-pin--${d.type}`; })
+      .attr("transform", pinTransform)
+      .attr("tabindex", 0)
+      .attr("role", "button")
+      .attr("aria-label", function (d) { return d.name; })
+      .on("mouseenter", function (event, d) { showPopup(d); })
+      .on("mouseleave", hidePopup)
+      .on("focus", function (event, d) { showPopup(d); })
+      .on("blur", hidePopup)
+      .on("click", function (event, d) {
+        popupPinned = true;
+        showPopup(d);
+        popupPinned = true;
+        showDetails(d);
+      })
+      .on("keydown", function (event, d) {
+        if (event.key === "Enter" || event.key === " ") {
+          popupPinned = true;
+          showPopup(d);
+          popupPinned = true;
+          showDetails(d);
+        }
+      });
+
+    pins.append("line")
+      .attr("class", "exploration-pin__needle")
+      .attr("x1", 0)
+      .attr("y1", -15)
+      .attr("x2", 0)
+      .attr("y2", 0);
+
+    pins.append("circle")
+      .attr("class", "exploration-pin__head")
+      .attr("cx", 0)
+      .attr("cy", -20)
+      .attr("r", 7);
+  });
+
+  document.addEventListener("click", function (event) {
+    if (!shell.contains(event.target)) popup.hidden = true;
+  });
+}());
+</script>

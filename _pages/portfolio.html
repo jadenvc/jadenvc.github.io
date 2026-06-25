@@ -1,14 +1,41 @@
 ---
 layout: archive
 title: "Projects"
-permalink: /portfolio/
+permalink: /projects/
 author_profile: false
 ---
 
 {% include base_path %}
 
+<div class="project-accordions">
+  <details class="project-panel">
+    <summary>Conservation</summary>
+    <div class="project-panel__body">
+      <p>I've worked with <a href="https://www.researchgate.net/profile/Mario-Espinoza-3" target="_blank">Dr. Mario Espinoza</a> and CIMAR to develop technology for studying marine animals in Santa Elena Bay, Costa Rica since 2022.</p>
+      <p>In 2025 we founded <a href="https://www.conservationtechgroup.org/" target="_blank">Conservation Technology Group</a> to disseminate our work.</p>
+      <p>Check out some highlights:</p>
 
-{% for post in site.portfolio reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+      <div class="project-media-grid">
+        <img src="/images/conservation/place_camera_tag.png" alt="Placing a camera tag">
+        <img src="/images/conservation/camera_tag.png" alt="Camera tag">
+        <img src="/images/conservation/vhf.jpeg" alt="VHF tracking equipment">
+        <img src="/images/conservation/recovered_tag.png" alt="Recovered tag">
+        <img src="/images/conservation/ray.jpg" alt="Ray in the water">
+        <img src="/images/conservation/drone_team.JPG" alt="Drone field team">
+      </div>
+    </div>
+  </details>
 
+  <details class="project-panel">
+    <summary>Teaching</summary>
+    <div class="project-panel__body">
+      <p>I co-taught and designed an <a href="https://pupper-independent-study.readthedocs.io/en/latest/" target="_blank">introductory AI Robotics course</a> for undergraduates at Stanford. Students built robot dogs, learned PD control and kinematics, and eventually trained their own RL locomotion controllers.</p>
+      <p>In 2023 I worked with Professor Karen Liu to make the class an official course on the AI track at Stanford, and it is now one of the most popular CS classes at Stanford, with hundreds of applications for only 20-30 students.</p>
+      <p>Check out its feature in <a href="https://news.stanford.edu/stories/2025/07/ai-powered-robot-dogs-pupper-cs-123-robotics-students" target="_blank">Stanford Report</a>.</p>
+
+      <div class="project-video">
+        <iframe src="https://www.youtube.com/embed/3OHWCOOlAFw?start=1" title="Stanford AI Robotics course video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </div>
+    </div>
+  </details>
+</div>

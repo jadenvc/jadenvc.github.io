@@ -7,10 +7,13 @@ main:
   #   url: /talks/    
 
   - title: "Photography"
-    url: /teaching/    
+    url: /photography/
     
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
+
+  - title: "Exploration"
+    url: /exploration/
         
 #   - title: "Blog Posts"
 #     url: /year-archive/

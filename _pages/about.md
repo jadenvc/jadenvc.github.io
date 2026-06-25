@@ -11,27 +11,35 @@ redirect_from:
 
 <div class="about-container">
   <div class="inline-author-profile">
-    <img src="/images/avatar3.jpeg" alt="" class="author-avatar">
-    <p class="author-bio">jvclark@stanford.edu </p>
+    <img src="/images/avatar.png" alt="" class="author-avatar">
+    <p class="author-bio">jvclark@stanford.edu</p>
     
-    <ul class="author-links">
-      <li><i class="fas fa-fw fa-map-marker-alt"></i> Palo Alto, Ca</li>
-      <li><a href="https://www.researchgate.net/profile/Jaden-Clark-2"><i class="fab fa-fw fa-researchgate"></i> ResearchGate</a></li>
-      <li><a href="https://twitter.com/jadenvclark"><i class="fab fa-fw fa-twitter"></i> Twitter</a></li>
-      <li><a href="https://github.com/jadenvc"><i class="fab fa-fw fa-github"></i> Github</a></li>
-      <li><a href="https://scholar.google.com/citations?user=UgKZHLcAAAAJ&hl=en&oi=ao"><i class="ai ai-google-scholar"></i> Google Scholar</a></li>
+    <ul class="author-links" aria-label="Profile links">
+      <li><a href="https://twitter.com/jadenvclark" aria-label="Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i></a></li>
+      <li><a href="https://github.com/jadenvc" aria-label="GitHub"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a></li>
+      <li><a href="https://scholar.google.com/citations?user=UgKZHLcAAAAJ&hl=en&oi=ao" aria-label="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i></a></li>
     </ul>
   </div>
   
   <div class="about-content">
     <h1>Jaden Clark</h1>
     
-    <p>I am a first year PhD student in AI and robotics at Stanford supported by the <a href="https://knight-hennessy.stanford.edu/">Knight-Hennessy Fellowship</a> and NSF Graduate Research Fellowship. I previously completed my undergrad at Stanford where I worked with <a href="https://dorsa.fyi/">Dr. Dorsa Sadigh</a>, <a href="https://web.stanford.edu/~schwager/">Dr. Mac Schwager</a>, and <a href="https://engineering.stanford.edu/people/karen-liu">Dr. Karen Liu</a>. My primary research interests are in multimodal sensing and robotics.</p>
+    <p>I am a PhD student in AI and robotics at Stanford advised by <a href="https://shurans.github.io/">Shuran Song</a> and <a href="https://web.stanford.edu/~schwager/">Mac Schwager</a>. I am supported by the <a href="https://knight-hennessy.stanford.edu/">Knight-Hennessy Fellowship</a> and NSF Graduate Research Fellowship. I previously completed my undergrad at Stanford where I worked with <a href="https://dorsa.fyi/">Dorsa Sadigh</a> and <a href="https://engineering.stanford.edu/people/karen-liu">Karen Liu</a>. I'm currently excited about multimodal sensing and interactive world models.</p> 
     
-    <p>I am also excited about using computational tools from robotics and AI to aid wildlife conservation and research. I currently collaborate most closely with <a href="https://www.researchgate.net/profile/Mario-Espinoza-3">Dr. Mario Espinoza</a> at Universidad de Costa Rica to develop low cost technology to study and conserve marine animals. I previously worked at <a href="https://www.mbari.org/">MBARI</a> developing new algorithms for agile underwater vehicles, studied movement ecology of large marine animals with <a href="https://www.stanfordblocklab.org/">Dr. Barbara Block</a> at Stanford, and flight biomechanics with <a href="https://biomechanics.ucr.edu/">Dr. Tim Higham</a> at UC Riverside.</p>
+    <p>I am also interested in <a href="/projects/">wildlife conservation</a> and <a href="/exploration/">exploration</a>.</p>
   </div>
 </div>
 
 <div style="clear: both;"></div>
-Highlights:
+
+<div class="updates-section">
+  <h3>Updates</h3>
+  <ul class="updates-list">
+    <li><span class="update-date">6/2026</span> Release MultiSensory World Model</li>
+    <li><span class="update-date">9/2025</span> Begin PhD at Stanford in AI Robotics with REAL and MSL</li>
+    <li><span class="update-date">7/2025</span> Fieldwork in Cambodia searching for new species</li>
+    <li><span class="update-date">5/2025</span> Receive Knight-Hennessy Scholarship (top 1%) to fund PhD at Stanford</li>
+  </ul>
+</div>
+
 {% include photo-carousel.html %}
