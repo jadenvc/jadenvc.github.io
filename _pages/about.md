@@ -35,7 +35,7 @@ redirect_from:
 <div class="updates-section">
   <h3>Updates</h3>
   <ul class="updates-list">
-    <li><span class="update-date">6/2026</span> Release MultiSensory World Model</li>
+    <li><span class="update-date">9/2026</span> First PhD project <a href="https://jadenvc.github.io/multisensory-continual-learning/">MultiSensory World Model</a> is accepted to CoRL 2026</li>
     <li><span class="update-date">9/2025</span> Begin PhD at Stanford</li>
     <li><span class="update-date">7/2025</span> Fieldwork in Cambodia searching for undescribed species</li>
     <li><span class="update-date">5/2025</span> Receive Knight-Hennessy Scholarship (top 1%) to fund PhD at Stanford</li>

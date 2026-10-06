@@ -472,7 +472,10 @@ pre {
 }
 
 body.page-publications .archive {
-  max-width: $container;
+  width: auto !important;
+  max-width: none;
+  margin-left: 0;
+  margin-right: calc(-1 * clamp(0px, (100vw - #{$container}) / 2, 100px));
 }
 
 body.page-projects .archive > .page__title {
