@@ -35,6 +35,7 @@ redirect_from:
 <div class="updates-section">
   <h3>Updates</h3>
   <ul class="updates-list">
+    <li><span class="update-date">11/2026</span> <span><a href="https://jadenvc.github.io/multisensory-continual-learning/">MultiSensory World Model</a> wins Best Paper at the NeurIPS Robot Learning with World Models workshop and a Spotlight at the CoRL Pretrain to Adapt workshop</span></li>
     <li><span class="update-date">10/2026</span> <span>Release <a href="https://changhaowang.github.io/chronospolicy/">Chronos Policy</a></span></li>
     <li><span class="update-date">9/2026</span> <span>First PhD project <a href="https://jadenvc.github.io/multisensory-continual-learning/">MultiSensory World Model</a> is accepted to CoRL 2026</span></li>
     <li><span class="update-date">9/2025</span> Begin PhD at Stanford</li>
