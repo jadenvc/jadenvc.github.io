@@ -3,6 +3,9 @@ title: "Multisensory Continual Learning: Adapting Pretrained Visuomotor Policies
 authors_before: ""
 authors_after: ", Changhao Wang, Yihuai Gao, Seongheon Hong, Hojung Choi, Mark Cutkosky, Yifan Hou, Shuran Song"
 award: ""
+awards:
+  - "Best Paper, NeurIPS Robot Learning with World Models Workshop"
+  - "Spotlight, CoRL Pretrain to Adapt Workshop"
 collection: publications
 permalink: /publication/muse
 tldr: 'We present MultiSensory World Model (MuSe), a training recipe for adapting pretrained policies to new modalities with minimal finetuning data. We show MuSe enables improved performance on contact-rich finetuning tasks, while preserving (or even improving) performance on pretraining tasks with no additional task-specific data.'

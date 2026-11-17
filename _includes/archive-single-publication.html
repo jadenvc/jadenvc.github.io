@@ -34,7 +34,7 @@
   </p>
   {% if post.venue and post.venue != "" %}
     <span class="archive__item-publication" itemprop="description" style="margin:0; line-height:1.4; color:#175E54">
-      {{ post.venue }}
+      {{ post.venue }}{% for award in post.awards %} &nbsp;🏆 {{ award }}{% endfor %}
     </span>
   {% else %}
     <span class="archive__item-publication" itemprop="description" style="margin:0; line-height:1.4;">
